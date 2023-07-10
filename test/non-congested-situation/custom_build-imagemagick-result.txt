@@ -1,0 +1,832 @@
+
+
+These are the default configuration options for when running the Phoronix Test Suite in a batch mode (i.e. running phoronix-test-suite batch-benchmark universe). Running in a batch mode is designed to be as autonomous as possible, except for where you'd like any end-user interaction.
+
+    Save test results when in batch mode (Y/n):     Run all test options (Y/n): 
+Batch settings saved.
+
+
+
+
+Phoronix Test Suite v10.8.4
+System Information
+
+
+PROCESSOR:                Intel Xeon E5-2686 v4
+    Core Count:           8                                        
+    Extensions:           SSE 4.2 + AVX2 + AVX + RDRAND + FSGSBASE 
+    Cache Size:           45 MB                                    
+    Microcode:            0xb000040                                
+    Core Family:          Broadwell                                
+
+GRAPHICS:                 
+    Vulkan:               1.1.182          
+
+MOTHERBOARD:              Xen HVM domU
+    BIOS Version:         4.11.amazon      
+
+MEMORY:                   32GB
+
+DISK:                     31GB
+    File-System:          overlayfs        
+
+OPERATING SYSTEM:         Ubuntu 20.04.6 LTS
+    Kernel:               5.15.0-1033-aws (x86_64)                                                                     
+    Compiler:             GCC 9.4.0                                                                                    
+    System Layer:         Xen HVM domU 4.11.amazon                                                                     
+    Security:             itlb_multihit: KVM: Mitigation of VMX unsupported                                            
+                          + l1tf: Mitigation of PTE Inversion                                                          
+                          + mds: Vulnerable: Clear buffers attempted no microcode; SMT Host state unknown              
+                          + meltdown: Mitigation of PTI                                                                
+                          + mmio_stale_data: Vulnerable: Clear buffers attempted no microcode; SMT Host state unknown  
+                          + retbleed: Not affected                                                                     
+                          + spec_store_bypass: Vulnerable                                                              
+                          + spectre_v1: Mitigation of usercopy/swapgs barriers and __user pointer sanitization         
+                          + spectre_v2: Mitigation of Retpolines STIBP: disabled RSB filling PBRSB-eIBRS: Not affected 
+                          + srbds: Not affected                                                                        
+                          + tsx_async_abort: Not affected                                                              
+
+
+Timed ImageMagick Compilation 6.9.0:
+    pts/build-imagemagick-1.7.2 [Time To Compile]
+    Test 1 of 1
+    Estimated Trial Run Count:    1                     
+    Estimated Time To Completion: 2 Minutes [06:26 UTC] 
+        Running Pre-Test Script @ 06:24:23
+        Started Run 1 @ 06:24:51
+        Running Post-Test Script @ 06:25:57
+
+    Time To Compile:
+        51.212
+
+    Average: 51.212 Seconds
+    Samples: 1
+
+
+
+These are the default configuration options for when running the Phoronix Test Suite in a batch mode (i.e. running phoronix-test-suite batch-benchmark universe). Running in a batch mode is designed to be as autonomous as possible, except for where you'd like any end-user interaction.
+
+    Save test results when in batch mode (Y/n):     Run all test options (Y/n): 
+Batch settings saved.
+
+
+
+
+Phoronix Test Suite v10.8.4
+System Information
+
+
+PROCESSOR:                Intel Xeon E5-2686 v4
+    Core Count:           8                                        
+    Extensions:           SSE 4.2 + AVX2 + AVX + RDRAND + FSGSBASE 
+    Cache Size:           45 MB                                    
+    Microcode:            0xb000040                                
+    Core Family:          Broadwell                                
+
+GRAPHICS:                 
+    Vulkan:               1.1.182          
+
+MOTHERBOARD:              Xen HVM domU
+    BIOS Version:         4.11.amazon      
+
+MEMORY:                   32GB
+
+DISK:                     31GB
+    File-System:          overlayfs        
+
+OPERATING SYSTEM:         Ubuntu 20.04.6 LTS
+    Kernel:               5.15.0-1033-aws (x86_64)                                                                     
+    Compiler:             GCC 9.4.0                                                                                    
+    System Layer:         Xen HVM domU 4.11.amazon                                                                     
+    Security:             itlb_multihit: KVM: Mitigation of VMX unsupported                                            
+                          + l1tf: Mitigation of PTE Inversion                                                          
+                          + mds: Vulnerable: Clear buffers attempted no microcode; SMT Host state unknown              
+                          + meltdown: Mitigation of PTI                                                                
+                          + mmio_stale_data: Vulnerable: Clear buffers attempted no microcode; SMT Host state unknown  
+                          + retbleed: Not affected                                                                     
+                          + spec_store_bypass: Vulnerable                                                              
+                          + spectre_v1: Mitigation of usercopy/swapgs barriers and __user pointer sanitization         
+                          + spectre_v2: Mitigation of Retpolines STIBP: disabled RSB filling PBRSB-eIBRS: Not affected 
+                          + srbds: Not affected                                                                        
+                          + tsx_async_abort: Not affected                                                              
+
+
+Timed ImageMagick Compilation 6.9.0:
+    pts/build-imagemagick-1.7.2 [Time To Compile]
+    Test 1 of 1
+    Estimated Trial Run Count:    1                     
+    Estimated Time To Completion: 2 Minutes [06:29 UTC] 
+        Running Pre-Test Script @ 06:27:49
+        Started Run 1 @ 06:28:17
+        Running Post-Test Script @ 06:29:24
+
+    Time To Compile:
+        52.776
+
+    Average: 52.776 Seconds
+    Samples: 1
+
+
+
+These are the default configuration options for when running the Phoronix Test Suite in a batch mode (i.e. running phoronix-test-suite batch-benchmark universe). Running in a batch mode is designed to be as autonomous as possible, except for where you'd like any end-user interaction.
+
+    Save test results when in batch mode (Y/n):     Run all test options (Y/n): 
+Batch settings saved.
+
+
+
+
+Phoronix Test Suite v10.8.4
+System Information
+
+
+PROCESSOR:                Intel Xeon E5-2686 v4
+    Core Count:           8                                        
+    Extensions:           SSE 4.2 + AVX2 + AVX + RDRAND + FSGSBASE 
+    Cache Size:           45 MB                                    
+    Microcode:            0xb000040                                
+    Core Family:          Broadwell                                
+
+GRAPHICS:                 
+    Vulkan:               1.1.182          
+
+MOTHERBOARD:              Xen HVM domU
+    BIOS Version:         4.11.amazon      
+
+MEMORY:                   32GB
+
+DISK:                     31GB
+    File-System:          overlayfs        
+
+OPERATING SYSTEM:         Ubuntu 20.04.6 LTS
+    Kernel:               5.15.0-1033-aws (x86_64)                                                                     
+    Compiler:             GCC 9.4.0                                                                                    
+    System Layer:         Xen HVM domU 4.11.amazon                                                                     
+    Security:             itlb_multihit: KVM: Mitigation of VMX unsupported                                            
+                          + l1tf: Mitigation of PTE Inversion                                                          
+                          + mds: Vulnerable: Clear buffers attempted no microcode; SMT Host state unknown              
+                          + meltdown: Mitigation of PTI                                                                
+                          + mmio_stale_data: Vulnerable: Clear buffers attempted no microcode; SMT Host state unknown  
+                          + retbleed: Not affected                                                                     
+                          + spec_store_bypass: Vulnerable                                                              
+                          + spectre_v1: Mitigation of usercopy/swapgs barriers and __user pointer sanitization         
+                          + spectre_v2: Mitigation of Retpolines STIBP: disabled RSB filling PBRSB-eIBRS: Not affected 
+                          + srbds: Not affected                                                                        
+                          + tsx_async_abort: Not affected                                                              
+
+
+Timed ImageMagick Compilation 6.9.0:
+    pts/build-imagemagick-1.7.2 [Time To Compile]
+    Test 1 of 1
+    Estimated Trial Run Count:    1                     
+    Estimated Time To Completion: 2 Minutes [06:33 UTC] 
+        Running Pre-Test Script @ 06:31:22
+        Started Run 1 @ 06:31:51
+        Running Post-Test Script @ 06:33:02
+
+    Time To Compile:
+        53.11
+
+    Average: 53.11 Seconds
+    Samples: 1
+
+
+
+These are the default configuration options for when running the Phoronix Test Suite in a batch mode (i.e. running phoronix-test-suite batch-benchmark universe). Running in a batch mode is designed to be as autonomous as possible, except for where you'd like any end-user interaction.
+
+    Save test results when in batch mode (Y/n):     Run all test options (Y/n): 
+Batch settings saved.
+
+
+
+
+Phoronix Test Suite v10.8.4
+System Information
+
+
+PROCESSOR:                Intel Xeon E5-2686 v4
+    Core Count:           8                                        
+    Extensions:           SSE 4.2 + AVX2 + AVX + RDRAND + FSGSBASE 
+    Cache Size:           45 MB                                    
+    Microcode:            0xb000040                                
+    Core Family:          Broadwell                                
+
+GRAPHICS:                 
+    Vulkan:               1.1.182          
+
+MOTHERBOARD:              Xen HVM domU
+    BIOS Version:         4.11.amazon      
+
+MEMORY:                   32GB
+
+DISK:                     31GB
+    File-System:          overlayfs        
+
+OPERATING SYSTEM:         Ubuntu 20.04.6 LTS
+    Kernel:               5.15.0-1033-aws (x86_64)                                                                     
+    Compiler:             GCC 9.4.0                                                                                    
+    System Layer:         Xen HVM domU 4.11.amazon                                                                     
+    Security:             itlb_multihit: KVM: Mitigation of VMX unsupported                                            
+                          + l1tf: Mitigation of PTE Inversion                                                          
+                          + mds: Vulnerable: Clear buffers attempted no microcode; SMT Host state unknown              
+                          + meltdown: Mitigation of PTI                                                                
+                          + mmio_stale_data: Vulnerable: Clear buffers attempted no microcode; SMT Host state unknown  
+                          + retbleed: Not affected                                                                     
+                          + spec_store_bypass: Vulnerable                                                              
+                          + spectre_v1: Mitigation of usercopy/swapgs barriers and __user pointer sanitization         
+                          + spectre_v2: Mitigation of Retpolines STIBP: disabled RSB filling PBRSB-eIBRS: Not affected 
+                          + srbds: Not affected                                                                        
+                          + tsx_async_abort: Not affected                                                              
+
+
+Timed ImageMagick Compilation 6.9.0:
+    pts/build-imagemagick-1.7.2 [Time To Compile]
+    Test 1 of 1
+    Estimated Trial Run Count:    1                     
+    Estimated Time To Completion: 2 Minutes [06:36 UTC] 
+        Running Pre-Test Script @ 06:34:55
+        Started Run 1 @ 06:35:27
+        Running Post-Test Script @ 06:36:49
+
+    Time To Compile:
+        52.062
+
+    Average: 52.062 Seconds
+    Samples: 1
+
+
+
+These are the default configuration options for when running the Phoronix Test Suite in a batch mode (i.e. running phoronix-test-suite batch-benchmark universe). Running in a batch mode is designed to be as autonomous as possible, except for where you'd like any end-user interaction.
+
+    Save test results when in batch mode (Y/n):     Run all test options (Y/n): 
+Batch settings saved.
+
+
+
+
+Phoronix Test Suite v10.8.4
+System Information
+
+
+PROCESSOR:                Intel Xeon E5-2686 v4
+    Core Count:           8                                        
+    Extensions:           SSE 4.2 + AVX2 + AVX + RDRAND + FSGSBASE 
+    Cache Size:           45 MB                                    
+    Microcode:            0xb000040                                
+    Core Family:          Broadwell                                
+
+GRAPHICS:                 
+    Vulkan:               1.1.182          
+
+MOTHERBOARD:              Xen HVM domU
+    BIOS Version:         4.11.amazon      
+
+MEMORY:                   32GB
+
+DISK:                     31GB
+    File-System:          overlayfs        
+
+OPERATING SYSTEM:         Ubuntu 20.04.6 LTS
+    Kernel:               5.15.0-1033-aws (x86_64)                                                                     
+    Compiler:             GCC 9.4.0                                                                                    
+    System Layer:         Xen HVM domU 4.11.amazon                                                                     
+    Security:             itlb_multihit: KVM: Mitigation of VMX unsupported                                            
+                          + l1tf: Mitigation of PTE Inversion                                                          
+                          + mds: Vulnerable: Clear buffers attempted no microcode; SMT Host state unknown              
+                          + meltdown: Mitigation of PTI                                                                
+                          + mmio_stale_data: Vulnerable: Clear buffers attempted no microcode; SMT Host state unknown  
+                          + retbleed: Not affected                                                                     
+                          + spec_store_bypass: Vulnerable                                                              
+                          + spectre_v1: Mitigation of usercopy/swapgs barriers and __user pointer sanitization         
+                          + spectre_v2: Mitigation of Retpolines STIBP: disabled RSB filling PBRSB-eIBRS: Not affected 
+                          + srbds: Not affected                                                                        
+                          + tsx_async_abort: Not affected                                                              
+
+
+Timed ImageMagick Compilation 6.9.0:
+    pts/build-imagemagick-1.7.2 [Time To Compile]
+    Test 1 of 1
+    Estimated Trial Run Count:    1                     
+    Estimated Time To Completion: 2 Minutes [06:40 UTC] 
+        Running Pre-Test Script @ 06:38:58
+        Started Run 1 @ 06:39:41
+        Running Post-Test Script @ 06:41:38
+
+    Time To Compile:
+        54.297
+
+    Average: 54.297 Seconds
+    Samples: 1
+
+
+
+These are the default configuration options for when running the Phoronix Test Suite in a batch mode (i.e. running phoronix-test-suite batch-benchmark universe). Running in a batch mode is designed to be as autonomous as possible, except for where you'd like any end-user interaction.
+
+    Save test results when in batch mode (Y/n):     Run all test options (Y/n): 
+Batch settings saved.
+
+
+
+
+Phoronix Test Suite v10.8.4
+System Information
+
+
+PROCESSOR:                Intel Xeon E5-2686 v4
+    Core Count:           8                                        
+    Extensions:           SSE 4.2 + AVX2 + AVX + RDRAND + FSGSBASE 
+    Cache Size:           45 MB                                    
+    Microcode:            0xb000040                                
+    Core Family:          Broadwell                                
+
+GRAPHICS:                 
+    Vulkan:               1.1.182          
+
+MOTHERBOARD:              Xen HVM domU
+    BIOS Version:         4.11.amazon      
+
+MEMORY:                   32GB
+
+DISK:                     31GB
+    File-System:          overlayfs        
+
+OPERATING SYSTEM:         Ubuntu 20.04.6 LTS
+    Kernel:               5.15.0-1033-aws (x86_64)                                                                     
+    Compiler:             GCC 9.4.0                                                                                    
+    System Layer:         Xen HVM domU 4.11.amazon                                                                     
+    Security:             itlb_multihit: KVM: Mitigation of VMX unsupported                                            
+                          + l1tf: Mitigation of PTE Inversion                                                          
+                          + mds: Vulnerable: Clear buffers attempted no microcode; SMT Host state unknown              
+                          + meltdown: Mitigation of PTI                                                                
+                          + mmio_stale_data: Vulnerable: Clear buffers attempted no microcode; SMT Host state unknown  
+                          + retbleed: Not affected                                                                     
+                          + spec_store_bypass: Vulnerable                                                              
+                          + spectre_v1: Mitigation of usercopy/swapgs barriers and __user pointer sanitization         
+                          + spectre_v2: Mitigation of Retpolines STIBP: disabled RSB filling PBRSB-eIBRS: Not affected 
+                          + srbds: Not affected                                                                        
+                          + tsx_async_abort: Not affected                                                              
+
+
+Timed ImageMagick Compilation 6.9.0:
+    pts/build-imagemagick-1.7.2 [Time To Compile]
+    Test 1 of 1
+    Estimated Trial Run Count:    1                     
+    Estimated Time To Completion: 2 Minutes [06:45 UTC] 
+        Running Pre-Test Script @ 06:43:32
+        Started Run 1 @ 06:44:15
+        Running Post-Test Script @ 06:46:59
+
+    Time To Compile:
+        52.769
+
+    Average: 52.769 Seconds
+    Samples: 1
+
+
+
+These are the default configuration options for when running the Phoronix Test Suite in a batch mode (i.e. running phoronix-test-suite batch-benchmark universe). Running in a batch mode is designed to be as autonomous as possible, except for where you'd like any end-user interaction.
+
+    Save test results when in batch mode (Y/n):     Run all test options (Y/n): 
+Batch settings saved.
+
+
+
+
+Phoronix Test Suite v10.8.4
+System Information
+
+
+PROCESSOR:                Intel Xeon E5-2686 v4
+    Core Count:           8                                        
+    Extensions:           SSE 4.2 + AVX2 + AVX + RDRAND + FSGSBASE 
+    Cache Size:           45 MB                                    
+    Microcode:            0xb000040                                
+    Core Family:          Broadwell                                
+
+GRAPHICS:                 
+    Vulkan:               1.1.182          
+
+MOTHERBOARD:              Xen HVM domU
+    BIOS Version:         4.11.amazon      
+
+MEMORY:                   32GB
+
+DISK:                     31GB
+    File-System:          overlayfs        
+
+OPERATING SYSTEM:         Ubuntu 20.04.6 LTS
+    Kernel:               5.15.0-1033-aws (x86_64)                                                                     
+    Compiler:             GCC 9.4.0                                                                                    
+    System Layer:         Xen HVM domU 4.11.amazon                                                                     
+    Security:             itlb_multihit: KVM: Mitigation of VMX unsupported                                            
+                          + l1tf: Mitigation of PTE Inversion                                                          
+                          + mds: Vulnerable: Clear buffers attempted no microcode; SMT Host state unknown              
+                          + meltdown: Mitigation of PTI                                                                
+                          + mmio_stale_data: Vulnerable: Clear buffers attempted no microcode; SMT Host state unknown  
+                          + retbleed: Not affected                                                                     
+                          + spec_store_bypass: Vulnerable                                                              
+                          + spectre_v1: Mitigation of usercopy/swapgs barriers and __user pointer sanitization         
+                          + spectre_v2: Mitigation of Retpolines STIBP: disabled RSB filling PBRSB-eIBRS: Not affected 
+                          + srbds: Not affected                                                                        
+                          + tsx_async_abort: Not affected                                                              
+
+
+Timed ImageMagick Compilation 6.9.0:
+    pts/build-imagemagick-1.7.2 [Time To Compile]
+    Test 1 of 1
+    Estimated Trial Run Count:    1                     
+    Estimated Time To Completion: 2 Minutes [06:50 UTC] 
+        Running Pre-Test Script @ 06:48:55
+        Started Run 1 @ 06:49:39
+        Running Post-Test Script @ 06:52:23
+
+    Time To Compile:
+        52.489
+
+    Average: 52.489 Seconds
+    Samples: 1
+
+
+
+These are the default configuration options for when running the Phoronix Test Suite in a batch mode (i.e. running phoronix-test-suite batch-benchmark universe). Running in a batch mode is designed to be as autonomous as possible, except for where you'd like any end-user interaction.
+
+    Save test results when in batch mode (Y/n):     Run all test options (Y/n): 
+Batch settings saved.
+
+
+
+
+Phoronix Test Suite v10.8.4
+System Information
+
+
+PROCESSOR:                Intel Xeon E5-2686 v4
+    Core Count:           8                                        
+    Extensions:           SSE 4.2 + AVX2 + AVX + RDRAND + FSGSBASE 
+    Cache Size:           45 MB                                    
+    Microcode:            0xb000040                                
+    Core Family:          Broadwell                                
+
+GRAPHICS:                 
+    Vulkan:               1.1.182          
+
+MOTHERBOARD:              Xen HVM domU
+    BIOS Version:         4.11.amazon      
+
+MEMORY:                   32GB
+
+DISK:                     31GB
+    File-System:          overlayfs        
+
+OPERATING SYSTEM:         Ubuntu 20.04.6 LTS
+    Kernel:               5.15.0-1033-aws (x86_64)                                                                     
+    Compiler:             GCC 9.4.0                                                                                    
+    System Layer:         Xen HVM domU 4.11.amazon                                                                     
+    Security:             itlb_multihit: KVM: Mitigation of VMX unsupported                                            
+                          + l1tf: Mitigation of PTE Inversion                                                          
+                          + mds: Vulnerable: Clear buffers attempted no microcode; SMT Host state unknown              
+                          + meltdown: Mitigation of PTI                                                                
+                          + mmio_stale_data: Vulnerable: Clear buffers attempted no microcode; SMT Host state unknown  
+                          + retbleed: Not affected                                                                     
+                          + spec_store_bypass: Vulnerable                                                              
+                          + spectre_v1: Mitigation of usercopy/swapgs barriers and __user pointer sanitization         
+                          + spectre_v2: Mitigation of Retpolines STIBP: disabled RSB filling PBRSB-eIBRS: Not affected 
+                          + srbds: Not affected                                                                        
+                          + tsx_async_abort: Not affected                                                              
+
+
+Timed ImageMagick Compilation 6.9.0:
+    pts/build-imagemagick-1.7.2 [Time To Compile]
+    Test 1 of 1
+    Estimated Trial Run Count:    1                     
+    Estimated Time To Completion: 2 Minutes [06:56 UTC] 
+        Running Pre-Test Script @ 06:54:43
+        Started Run 1 @ 06:55:20
+        Running Post-Test Script @ 06:58:12
+
+    Time To Compile:
+        51.768
+
+    Average: 51.768 Seconds
+    Samples: 1
+
+
+
+These are the default configuration options for when running the Phoronix Test Suite in a batch mode (i.e. running phoronix-test-suite batch-benchmark universe). Running in a batch mode is designed to be as autonomous as possible, except for where you'd like any end-user interaction.
+
+    Save test results when in batch mode (Y/n):     Run all test options (Y/n): 
+Batch settings saved.
+
+
+
+
+Phoronix Test Suite v10.8.4
+System Information
+
+
+PROCESSOR:                Intel Xeon E5-2686 v4
+    Core Count:           8                                        
+    Extensions:           SSE 4.2 + AVX2 + AVX + RDRAND + FSGSBASE 
+    Cache Size:           45 MB                                    
+    Microcode:            0xb000040                                
+    Core Family:          Broadwell                                
+
+GRAPHICS:                 
+    Vulkan:               1.1.182          
+
+MOTHERBOARD:              Xen HVM domU
+    BIOS Version:         4.11.amazon      
+
+MEMORY:                   32GB
+
+DISK:                     31GB
+    File-System:          overlayfs        
+
+OPERATING SYSTEM:         Ubuntu 20.04.6 LTS
+    Kernel:               5.15.0-1033-aws (x86_64)                                                                     
+    Compiler:             GCC 9.4.0                                                                                    
+    System Layer:         Xen HVM domU 4.11.amazon                                                                     
+    Security:             itlb_multihit: KVM: Mitigation of VMX unsupported                                            
+                          + l1tf: Mitigation of PTE Inversion                                                          
+                          + mds: Vulnerable: Clear buffers attempted no microcode; SMT Host state unknown              
+                          + meltdown: Mitigation of PTI                                                                
+                          + mmio_stale_data: Vulnerable: Clear buffers attempted no microcode; SMT Host state unknown  
+                          + retbleed: Not affected                                                                     
+                          + spec_store_bypass: Vulnerable                                                              
+                          + spectre_v1: Mitigation of usercopy/swapgs barriers and __user pointer sanitization         
+                          + spectre_v2: Mitigation of Retpolines STIBP: disabled RSB filling PBRSB-eIBRS: Not affected 
+                          + srbds: Not affected                                                                        
+                          + tsx_async_abort: Not affected                                                              
+
+
+Timed ImageMagick Compilation 6.9.0:
+    pts/build-imagemagick-1.7.2 [Time To Compile]
+    Test 1 of 1
+    Estimated Trial Run Count:    1                     
+    Estimated Time To Completion: 2 Minutes [07:01 UTC] 
+        Running Pre-Test Script @ 07:00:16
+        Started Run 1 @ 07:00:44
+        Running Post-Test Script @ 07:04:03
+
+    Time To Compile:
+        536.309
+
+    Average: 53.309 Seconds
+    Samples: 1
+
+
+
+These are the default configuration options for when running the Phoronix Test Suite in a batch mode (i.e. running phoronix-test-suite batch-benchmark universe). Running in a batch mode is designed to be as autonomous as possible, except for where you'd like any end-user interaction.
+
+    Save test results when in batch mode (Y/n):     Run all test options (Y/n): 
+Batch settings saved.
+
+
+
+
+Phoronix Test Suite v10.8.4
+System Information
+
+
+PROCESSOR:                Intel Xeon E5-2686 v4
+    Core Count:           8                                        
+    Extensions:           SSE 4.2 + AVX2 + AVX + RDRAND + FSGSBASE 
+    Cache Size:           45 MB                                    
+    Microcode:            0xb000040                                
+    Core Family:          Broadwell                                
+
+GRAPHICS:                 
+    Vulkan:               1.1.182          
+
+MOTHERBOARD:              Xen HVM domU
+    BIOS Version:         4.11.amazon      
+
+MEMORY:                   32GB
+
+DISK:                     31GB
+    File-System:          overlayfs        
+
+OPERATING SYSTEM:         Ubuntu 20.04.6 LTS
+    Kernel:               5.15.0-1033-aws (x86_64)                                                                     
+    Compiler:             GCC 9.4.0                                                                                    
+    System Layer:         Xen HVM domU 4.11.amazon                                                                     
+    Security:             itlb_multihit: KVM: Mitigation of VMX unsupported                                            
+                          + l1tf: Mitigation of PTE Inversion                                                          
+                          + mds: Vulnerable: Clear buffers attempted no microcode; SMT Host state unknown              
+                          + meltdown: Mitigation of PTI                                                                
+                          + mmio_stale_data: Vulnerable: Clear buffers attempted no microcode; SMT Host state unknown  
+                          + retbleed: Not affected                                                                     
+                          + spec_store_bypass: Vulnerable                                                              
+                          + spectre_v1: Mitigation of usercopy/swapgs barriers and __user pointer sanitization         
+                          + spectre_v2: Mitigation of Retpolines STIBP: disabled RSB filling PBRSB-eIBRS: Not affected 
+                          + srbds: Not affected                                                                        
+                          + tsx_async_abort: Not affected                                                              
+
+
+Timed ImageMagick Compilation 6.9.0:
+    pts/build-imagemagick-1.7.2 [Time To Compile]
+    Test 1 of 1
+    Estimated Trial Run Count:    1                     
+    Estimated Time To Completion: 2 Minutes [07:08 UTC] 
+        Running Pre-Test Script @ 07:06:25
+        Started Run 1 @ 07:06:54
+        Running Post-Test Script @ 07:10:05
+
+    Time To Compile:
+        54.852
+
+    Average: 54.852 Seconds
+    Samples: 1
+
+
+
+These are the default configuration options for when running the Phoronix Test Suite in a batch mode (i.e. running phoronix-test-suite batch-benchmark universe). Running in a batch mode is designed to be as autonomous as possible, except for where you'd like any end-user interaction.
+
+    Save test results when in batch mode (Y/n):     Run all test options (Y/n): 
+Batch settings saved.
+
+
+
+
+Phoronix Test Suite v10.8.4
+System Information
+
+
+PROCESSOR:                Intel Xeon E5-2686 v4
+    Core Count:           8                                        
+    Extensions:           SSE 4.2 + AVX2 + AVX + RDRAND + FSGSBASE 
+    Cache Size:           45 MB                                    
+    Microcode:            0xb000040                                
+    Core Family:          Broadwell                                
+
+GRAPHICS:                 
+    Vulkan:               1.1.182          
+
+MOTHERBOARD:              Xen HVM domU
+    BIOS Version:         4.11.amazon      
+
+MEMORY:                   32GB
+
+DISK:                     31GB
+    File-System:          overlayfs        
+
+OPERATING SYSTEM:         Ubuntu 20.04.6 LTS
+    Kernel:               5.15.0-1033-aws (x86_64)                                                                     
+    Compiler:             GCC 9.4.0                                                                                    
+    System Layer:         Xen HVM domU 4.11.amazon                                                                     
+    Security:             itlb_multihit: KVM: Mitigation of VMX unsupported                                            
+                          + l1tf: Mitigation of PTE Inversion                                                          
+                          + mds: Vulnerable: Clear buffers attempted no microcode; SMT Host state unknown              
+                          + meltdown: Mitigation of PTI                                                                
+                          + mmio_stale_data: Vulnerable: Clear buffers attempted no microcode; SMT Host state unknown  
+                          + retbleed: Not affected                                                                     
+                          + spec_store_bypass: Vulnerable                                                              
+                          + spectre_v1: Mitigation of usercopy/swapgs barriers and __user pointer sanitization         
+                          + spectre_v2: Mitigation of Retpolines STIBP: disabled RSB filling PBRSB-eIBRS: Not affected 
+                          + srbds: Not affected                                                                        
+                          + tsx_async_abort: Not affected                                                              
+
+
+Timed ImageMagick Compilation 6.9.0:
+    pts/build-imagemagick-1.7.2 [Time To Compile]
+    Test 1 of 1
+    Estimated Trial Run Count:    1                     
+    Estimated Time To Completion: 2 Minutes [07:13 UTC] 
+        Running Pre-Test Script @ 07:12:13
+        Started Run 1 @ 07:12:41
+        Running Post-Test Script @ 07:15:27
+
+    Time To Compile:
+        53.252
+
+    Average: 53.252 Seconds
+    Samples: 1
+
+
+
+These are the default configuration options for when running the Phoronix Test Suite in a batch mode (i.e. running phoronix-test-suite batch-benchmark universe). Running in a batch mode is designed to be as autonomous as possible, except for where you'd like any end-user interaction.
+
+    Save test results when in batch mode (Y/n):     Run all test options (Y/n): 
+Batch settings saved.
+
+
+
+
+Phoronix Test Suite v10.8.4
+System Information
+
+
+PROCESSOR:                Intel Xeon E5-2686 v4
+    Core Count:           8                                        
+    Extensions:           SSE 4.2 + AVX2 + AVX + RDRAND + FSGSBASE 
+    Cache Size:           45 MB                                    
+    Microcode:            0xb000040                                
+    Core Family:          Broadwell                                
+
+GRAPHICS:                 
+    Vulkan:               1.1.182          
+
+MOTHERBOARD:              Xen HVM domU
+    BIOS Version:         4.11.amazon      
+
+MEMORY:                   32GB
+
+DISK:                     31GB
+    File-System:          overlayfs        
+
+OPERATING SYSTEM:         Ubuntu 20.04.6 LTS
+    Kernel:               5.15.0-1033-aws (x86_64)                                                                     
+    Compiler:             GCC 9.4.0                                                                                    
+    System Layer:         Xen HVM domU 4.11.amazon                                                                     
+    Security:             itlb_multihit: KVM: Mitigation of VMX unsupported                                            
+                          + l1tf: Mitigation of PTE Inversion                                                          
+                          + mds: Vulnerable: Clear buffers attempted no microcode; SMT Host state unknown              
+                          + meltdown: Mitigation of PTI                                                                
+                          + mmio_stale_data: Vulnerable: Clear buffers attempted no microcode; SMT Host state unknown  
+                          + retbleed: Not affected                                                                     
+                          + spec_store_bypass: Vulnerable                                                              
+                          + spectre_v1: Mitigation of usercopy/swapgs barriers and __user pointer sanitization         
+                          + spectre_v2: Mitigation of Retpolines STIBP: disabled RSB filling PBRSB-eIBRS: Not affected 
+                          + srbds: Not affected                                                                        
+                          + tsx_async_abort: Not affected                                                              
+
+
+Timed ImageMagick Compilation 6.9.0:
+    pts/build-imagemagick-1.7.2 [Time To Compile]
+    Test 1 of 1
+    Estimated Trial Run Count:    1                     
+    Estimated Time To Completion: 2 Minutes [07:19 UTC] 
+        Running Pre-Test Script @ 07:17:34
+        Started Run 1 @ 07:18:03
+        Running Post-Test Script @ 07:20:41
+
+    Time To Compile:
+        51.089
+
+    Average: 51.089 Seconds
+    Samples: 1
+
+
+
+These are the default configuration options for when running the Phoronix Test Suite in a batch mode (i.e. running phoronix-test-suite batch-benchmark universe). Running in a batch mode is designed to be as autonomous as possible, except for where you'd like any end-user interaction.
+
+    Save test results when in batch mode (Y/n):     Run all test options (Y/n): 
+Batch settings saved.
+
+
+
+
+Phoronix Test Suite v10.8.4
+System Information
+
+
+PROCESSOR:                Intel Xeon E5-2686 v4
+    Core Count:           8                                        
+    Extensions:           SSE 4.2 + AVX2 + AVX + RDRAND + FSGSBASE 
+    Cache Size:           45 MB                                    
+    Microcode:            0xb000040                                
+    Core Family:          Broadwell                                
+
+GRAPHICS:                 
+    Vulkan:               1.1.182          
+
+MOTHERBOARD:              Xen HVM domU
+    BIOS Version:         4.11.amazon      
+
+MEMORY:                   32GB
+
+DISK:                     31GB
+    File-System:          overlayfs        
+
+OPERATING SYSTEM:         Ubuntu 20.04.6 LTS
+    Kernel:               5.15.0-1033-aws (x86_64)                                                                     
+    Compiler:             GCC 9.4.0                                                                                    
+    System Layer:         Xen HVM domU 4.11.amazon                                                                     
+    Security:             itlb_multihit: KVM: Mitigation of VMX unsupported                                            
+                          + l1tf: Mitigation of PTE Inversion                                                          
+                          + mds: Vulnerable: Clear buffers attempted no microcode; SMT Host state unknown              
+                          + meltdown: Mitigation of PTI                                                                
+                          + mmio_stale_data: Vulnerable: Clear buffers attempted no microcode; SMT Host state unknown  
+                          + retbleed: Not affected                                                                     
+                          + spec_store_bypass: Vulnerable                                                              
+                          + spectre_v1: Mitigation of usercopy/swapgs barriers and __user pointer sanitization         
+                          + spectre_v2: Mitigation of Retpolines STIBP: disabled RSB filling PBRSB-eIBRS: Not affected 
+                          + srbds: Not affected                                                                        
+                          + tsx_async_abort: Not affected                                                              
+
+
+Timed ImageMagick Compilation 6.9.0:
+    pts/build-imagemagick-1.7.2 [Time To Compile]
+    Test 1 of 1
+    Estimated Trial Run Count:    1                     
+    Estimated Time To Completion: 2 Minutes [07:24 UTC] 
+        Running Pre-Test Script @ 07:22:43
+        Started Run 1 @ 07:23:15
+        Running Post-Test Script @ 07:25:51
+
+    Time To Compile:
+        54.437
+
+    Average: 54.437 Seconds
+    Samples: 1
+

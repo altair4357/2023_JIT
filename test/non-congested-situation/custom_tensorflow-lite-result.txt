@@ -1,0 +1,988 @@
+
+
+These are the default configuration options for when running the Phoronix Test Suite in a batch mode (i.e. running phoronix-test-suite batch-benchmark universe). Running in a batch mode is designed to be as autonomous as possible, except for where you'd like any end-user interaction.
+
+    Save test results when in batch mode (Y/n):     Run all test options (Y/n): 
+Batch settings saved.
+
+
+
+
+
+TensorFlow Lite 2022-05-18:
+    pts/tensorflow-lite-1.1.0
+    System Test Configuration
+        1: Mobilenet Float
+        2: Mobilenet Quant
+        3: NASNet Mobile
+        4: SqueezeNet
+        5: Inception ResNet V2
+        6: Inception V4
+        7: Test All Options
+        ** Multiple items can be selected, delimit by a comma. **
+
+
+Phoronix Test Suite v10.8.4
+System Information
+
+
+PROCESSOR:                Intel Xeon E5-2686 v4
+    Core Count:           8                                        
+    Extensions:           SSE 4.2 + AVX2 + AVX + RDRAND + FSGSBASE 
+    Cache Size:           45 MB                                    
+    Microcode:            0xb000040                                
+    Core Family:          Broadwell                                
+
+GRAPHICS:                 
+    Vulkan:               1.1.182          
+
+MOTHERBOARD:              Xen HVM domU
+    BIOS Version:         4.11.amazon      
+
+MEMORY:                   32GB
+
+DISK:                     31GB
+    File-System:          overlayfs        
+
+OPERATING SYSTEM:         Ubuntu 20.04.6 LTS
+    Kernel:               5.15.0-1033-aws (x86_64)                                                                     
+    Compiler:             GCC 9.4.0                                                                                    
+    System Layer:         Xen HVM domU 4.11.amazon                                                                     
+    Security:             itlb_multihit: KVM: Mitigation of VMX unsupported                                            
+                          + l1tf: Mitigation of PTE Inversion                                                          
+                          + mds: Vulnerable: Clear buffers attempted no microcode; SMT Host state unknown              
+                          + meltdown: Mitigation of PTI                                                                
+                          + mmio_stale_data: Vulnerable: Clear buffers attempted no microcode; SMT Host state unknown  
+                          + retbleed: Not affected                                                                     
+                          + spec_store_bypass: Vulnerable                                                              
+                          + spectre_v1: Mitigation of usercopy/swapgs barriers and __user pointer sanitization         
+                          + spectre_v2: Mitigation of Retpolines STIBP: disabled RSB filling PBRSB-eIBRS: Not affected 
+                          + srbds: Not affected                                                                        
+                          + tsx_async_abort: Not affected                                                              
+
+
+TensorFlow Lite 2022-05-18:
+    pts/tensorflow-lite-1.1.0 [Model: Inception V4]
+    Test 1 of 1
+    Estimated Trial Run Count:    1                     
+    Estimated Time To Completion: 2 Minutes [10:05 UTC] 
+        Started Run 1 @ 10:03:56
+
+    Model: Inception V4:
+        151321
+
+    Average: 151321 Microseconds
+    Samples: 1
+
+
+
+These are the default configuration options for when running the Phoronix Test Suite in a batch mode (i.e. running phoronix-test-suite batch-benchmark universe). Running in a batch mode is designed to be as autonomous as possible, except for where you'd like any end-user interaction.
+
+    Save test results when in batch mode (Y/n):     Run all test options (Y/n): 
+Batch settings saved.
+
+
+
+
+
+TensorFlow Lite 2022-05-18:
+    pts/tensorflow-lite-1.1.0
+    System Test Configuration
+        1: Mobilenet Float
+        2: Mobilenet Quant
+        3: NASNet Mobile
+        4: SqueezeNet
+        5: Inception ResNet V2
+        6: Inception V4
+        7: Test All Options
+        ** Multiple items can be selected, delimit by a comma. **
+
+
+Phoronix Test Suite v10.8.4
+System Information
+
+
+PROCESSOR:                Intel Xeon E5-2686 v4
+    Core Count:           8                                        
+    Extensions:           SSE 4.2 + AVX2 + AVX + RDRAND + FSGSBASE 
+    Cache Size:           45 MB                                    
+    Microcode:            0xb000040                                
+    Core Family:          Broadwell                                
+
+GRAPHICS:                 
+    Vulkan:               1.1.182          
+
+MOTHERBOARD:              Xen HVM domU
+    BIOS Version:         4.11.amazon      
+
+MEMORY:                   32GB
+
+DISK:                     31GB
+    File-System:          overlayfs        
+
+OPERATING SYSTEM:         Ubuntu 20.04.6 LTS
+    Kernel:               5.15.0-1033-aws (x86_64)                                                                     
+    Compiler:             GCC 9.4.0                                                                                    
+    System Layer:         Xen HVM domU 4.11.amazon                                                                     
+    Security:             itlb_multihit: KVM: Mitigation of VMX unsupported                                            
+                          + l1tf: Mitigation of PTE Inversion                                                          
+                          + mds: Vulnerable: Clear buffers attempted no microcode; SMT Host state unknown              
+                          + meltdown: Mitigation of PTI                                                                
+                          + mmio_stale_data: Vulnerable: Clear buffers attempted no microcode; SMT Host state unknown  
+                          + retbleed: Not affected                                                                     
+                          + spec_store_bypass: Vulnerable                                                              
+                          + spectre_v1: Mitigation of usercopy/swapgs barriers and __user pointer sanitization         
+                          + spectre_v2: Mitigation of Retpolines STIBP: disabled RSB filling PBRSB-eIBRS: Not affected 
+                          + srbds: Not affected                                                                        
+                          + tsx_async_abort: Not affected                                                              
+
+
+TensorFlow Lite 2022-05-18:
+    pts/tensorflow-lite-1.1.0 [Model: Inception V4]
+    Test 1 of 1
+    Estimated Trial Run Count:    1                     
+    Estimated Time To Completion: 2 Minutes [10:08 UTC] 
+        Started Run 1 @ 10:07:27
+
+    Model: Inception V4:
+        139670
+
+    Average: 139670 Microseconds
+    Samples: 1
+
+
+
+These are the default configuration options for when running the Phoronix Test Suite in a batch mode (i.e. running phoronix-test-suite batch-benchmark universe). Running in a batch mode is designed to be as autonomous as possible, except for where you'd like any end-user interaction.
+
+    Save test results when in batch mode (Y/n):     Run all test options (Y/n): 
+Batch settings saved.
+
+
+
+
+
+TensorFlow Lite 2022-05-18:
+    pts/tensorflow-lite-1.1.0
+    System Test Configuration
+        1: Mobilenet Float
+        2: Mobilenet Quant
+        3: NASNet Mobile
+        4: SqueezeNet
+        5: Inception ResNet V2
+        6: Inception V4
+        7: Test All Options
+        ** Multiple items can be selected, delimit by a comma. **
+
+
+Phoronix Test Suite v10.8.4
+System Information
+
+
+PROCESSOR:                Intel Xeon E5-2686 v4
+    Core Count:           8                                        
+    Extensions:           SSE 4.2 + AVX2 + AVX + RDRAND + FSGSBASE 
+    Cache Size:           45 MB                                    
+    Microcode:            0xb000040                                
+    Core Family:          Broadwell                                
+
+GRAPHICS:                 
+    Vulkan:               1.1.182          
+
+MOTHERBOARD:              Xen HVM domU
+    BIOS Version:         4.11.amazon      
+
+MEMORY:                   32GB
+
+DISK:                     31GB
+    File-System:          overlayfs        
+
+OPERATING SYSTEM:         Ubuntu 20.04.6 LTS
+    Kernel:               5.15.0-1033-aws (x86_64)                                                                     
+    Compiler:             GCC 9.4.0                                                                                    
+    System Layer:         Xen HVM domU 4.11.amazon                                                                     
+    Security:             itlb_multihit: KVM: Mitigation of VMX unsupported                                            
+                          + l1tf: Mitigation of PTE Inversion                                                          
+                          + mds: Vulnerable: Clear buffers attempted no microcode; SMT Host state unknown              
+                          + meltdown: Mitigation of PTI                                                                
+                          + mmio_stale_data: Vulnerable: Clear buffers attempted no microcode; SMT Host state unknown  
+                          + retbleed: Not affected                                                                     
+                          + spec_store_bypass: Vulnerable                                                              
+                          + spectre_v1: Mitigation of usercopy/swapgs barriers and __user pointer sanitization         
+                          + spectre_v2: Mitigation of Retpolines STIBP: disabled RSB filling PBRSB-eIBRS: Not affected 
+                          + srbds: Not affected                                                                        
+                          + tsx_async_abort: Not affected                                                              
+
+
+TensorFlow Lite 2022-05-18:
+    pts/tensorflow-lite-1.1.0 [Model: Inception V4]
+    Test 1 of 1
+    Estimated Trial Run Count:    1                     
+    Estimated Time To Completion: 2 Minutes [10:13 UTC] 
+        Started Run 1 @ 10:12:27
+
+    Model: Inception V4:
+        143635
+
+    Average: 143635 Microseconds
+    Samples: 1
+
+
+
+These are the default configuration options for when running the Phoronix Test Suite in a batch mode (i.e. running phoronix-test-suite batch-benchmark universe). Running in a batch mode is designed to be as autonomous as possible, except for where you'd like any end-user interaction.
+
+    Save test results when in batch mode (Y/n):     Run all test options (Y/n): 
+Batch settings saved.
+
+
+
+
+
+TensorFlow Lite 2022-05-18:
+    pts/tensorflow-lite-1.1.0
+    System Test Configuration
+        1: Mobilenet Float
+        2: Mobilenet Quant
+        3: NASNet Mobile
+        4: SqueezeNet
+        5: Inception ResNet V2
+        6: Inception V4
+        7: Test All Options
+        ** Multiple items can be selected, delimit by a comma. **
+
+
+Phoronix Test Suite v10.8.4
+System Information
+
+
+PROCESSOR:                Intel Xeon E5-2686 v4
+    Core Count:           8                                        
+    Extensions:           SSE 4.2 + AVX2 + AVX + RDRAND + FSGSBASE 
+    Cache Size:           45 MB                                    
+    Microcode:            0xb000040                                
+    Core Family:          Broadwell                                
+
+GRAPHICS:                 
+    Vulkan:               1.1.182          
+
+MOTHERBOARD:              Xen HVM domU
+    BIOS Version:         4.11.amazon      
+
+MEMORY:                   32GB
+
+DISK:                     31GB
+    File-System:          overlayfs        
+
+OPERATING SYSTEM:         Ubuntu 20.04.6 LTS
+    Kernel:               5.15.0-1033-aws (x86_64)                                                                     
+    Compiler:             GCC 9.4.0                                                                                    
+    System Layer:         Xen HVM domU 4.11.amazon                                                                     
+    Security:             itlb_multihit: KVM: Mitigation of VMX unsupported                                            
+                          + l1tf: Mitigation of PTE Inversion                                                          
+                          + mds: Vulnerable: Clear buffers attempted no microcode; SMT Host state unknown              
+                          + meltdown: Mitigation of PTI                                                                
+                          + mmio_stale_data: Vulnerable: Clear buffers attempted no microcode; SMT Host state unknown  
+                          + retbleed: Not affected                                                                     
+                          + spec_store_bypass: Vulnerable                                                              
+                          + spectre_v1: Mitigation of usercopy/swapgs barriers and __user pointer sanitization         
+                          + spectre_v2: Mitigation of Retpolines STIBP: disabled RSB filling PBRSB-eIBRS: Not affected 
+                          + srbds: Not affected                                                                        
+                          + tsx_async_abort: Not affected                                                              
+
+
+TensorFlow Lite 2022-05-18:
+    pts/tensorflow-lite-1.1.0 [Model: Inception V4]
+    Test 1 of 1
+    Estimated Trial Run Count:    1                     
+    Estimated Time To Completion: 2 Minutes [10:16 UTC] 
+        Started Run 1 @ 10:15:39
+
+    Model: Inception V4:
+        158081
+
+    Average: 158081 Microseconds
+    Samples: 1
+
+
+
+These are the default configuration options for when running the Phoronix Test Suite in a batch mode (i.e. running phoronix-test-suite batch-benchmark universe). Running in a batch mode is designed to be as autonomous as possible, except for where you'd like any end-user interaction.
+
+    Save test results when in batch mode (Y/n):     Run all test options (Y/n): 
+Batch settings saved.
+
+
+
+
+
+TensorFlow Lite 2022-05-18:
+    pts/tensorflow-lite-1.1.0
+    System Test Configuration
+        1: Mobilenet Float
+        2: Mobilenet Quant
+        3: NASNet Mobile
+        4: SqueezeNet
+        5: Inception ResNet V2
+        6: Inception V4
+        7: Test All Options
+        ** Multiple items can be selected, delimit by a comma. **
+
+
+Phoronix Test Suite v10.8.4
+System Information
+
+
+PROCESSOR:                Intel Xeon E5-2686 v4
+    Core Count:           8                                        
+    Extensions:           SSE 4.2 + AVX2 + AVX + RDRAND + FSGSBASE 
+    Cache Size:           45 MB                                    
+    Microcode:            0xb000040                                
+    Core Family:          Broadwell                                
+
+GRAPHICS:                 
+    Vulkan:               1.1.182          
+
+MOTHERBOARD:              Xen HVM domU
+    BIOS Version:         4.11.amazon      
+
+MEMORY:                   32GB
+
+DISK:                     31GB
+    File-System:          overlayfs        
+
+OPERATING SYSTEM:         Ubuntu 20.04.6 LTS
+    Kernel:               5.15.0-1033-aws (x86_64)                                                                     
+    Compiler:             GCC 9.4.0                                                                                    
+    System Layer:         Xen HVM domU 4.11.amazon                                                                     
+    Security:             itlb_multihit: KVM: Mitigation of VMX unsupported                                            
+                          + l1tf: Mitigation of PTE Inversion                                                          
+                          + mds: Vulnerable: Clear buffers attempted no microcode; SMT Host state unknown              
+                          + meltdown: Mitigation of PTI                                                                
+                          + mmio_stale_data: Vulnerable: Clear buffers attempted no microcode; SMT Host state unknown  
+                          + retbleed: Not affected                                                                     
+                          + spec_store_bypass: Vulnerable                                                              
+                          + spectre_v1: Mitigation of usercopy/swapgs barriers and __user pointer sanitization         
+                          + spectre_v2: Mitigation of Retpolines STIBP: disabled RSB filling PBRSB-eIBRS: Not affected 
+                          + srbds: Not affected                                                                        
+                          + tsx_async_abort: Not affected                                                              
+
+
+TensorFlow Lite 2022-05-18:
+    pts/tensorflow-lite-1.1.0 [Model: Inception V4]
+    Test 1 of 1
+    Estimated Trial Run Count:    1                     
+    Estimated Time To Completion: 2 Minutes [10:19 UTC] 
+        Started Run 1 @ 10:18:33
+
+    Model: Inception V4:
+        136728
+
+    Average: 136728 Microseconds
+    Samples: 1
+
+
+
+These are the default configuration options for when running the Phoronix Test Suite in a batch mode (i.e. running phoronix-test-suite batch-benchmark universe). Running in a batch mode is designed to be as autonomous as possible, except for where you'd like any end-user interaction.
+
+    Save test results when in batch mode (Y/n):     Run all test options (Y/n): 
+Batch settings saved.
+
+
+
+
+
+TensorFlow Lite 2022-05-18:
+    pts/tensorflow-lite-1.1.0
+    System Test Configuration
+        1: Mobilenet Float
+        2: Mobilenet Quant
+        3: NASNet Mobile
+        4: SqueezeNet
+        5: Inception ResNet V2
+        6: Inception V4
+        7: Test All Options
+        ** Multiple items can be selected, delimit by a comma. **
+
+
+Phoronix Test Suite v10.8.4
+System Information
+
+
+PROCESSOR:                Intel Xeon E5-2686 v4
+    Core Count:           8                                        
+    Extensions:           SSE 4.2 + AVX2 + AVX + RDRAND + FSGSBASE 
+    Cache Size:           45 MB                                    
+    Microcode:            0xb000040                                
+    Core Family:          Broadwell                                
+
+GRAPHICS:                 
+    Vulkan:               1.1.182          
+
+MOTHERBOARD:              Xen HVM domU
+    BIOS Version:         4.11.amazon      
+
+MEMORY:                   32GB
+
+DISK:                     31GB
+    File-System:          overlayfs        
+
+OPERATING SYSTEM:         Ubuntu 20.04.6 LTS
+    Kernel:               5.15.0-1033-aws (x86_64)                                                                     
+    Compiler:             GCC 9.4.0                                                                                    
+    System Layer:         Xen HVM domU 4.11.amazon                                                                     
+    Security:             itlb_multihit: KVM: Mitigation of VMX unsupported                                            
+                          + l1tf: Mitigation of PTE Inversion                                                          
+                          + mds: Vulnerable: Clear buffers attempted no microcode; SMT Host state unknown              
+                          + meltdown: Mitigation of PTI                                                                
+                          + mmio_stale_data: Vulnerable: Clear buffers attempted no microcode; SMT Host state unknown  
+                          + retbleed: Not affected                                                                     
+                          + spec_store_bypass: Vulnerable                                                              
+                          + spectre_v1: Mitigation of usercopy/swapgs barriers and __user pointer sanitization         
+                          + spectre_v2: Mitigation of Retpolines STIBP: disabled RSB filling PBRSB-eIBRS: Not affected 
+                          + srbds: Not affected                                                                        
+                          + tsx_async_abort: Not affected                                                              
+
+
+TensorFlow Lite 2022-05-18:
+    pts/tensorflow-lite-1.1.0 [Model: Inception V4]
+    Test 1 of 1
+    Estimated Trial Run Count:    1                     
+    Estimated Time To Completion: 2 Minutes [10:23 UTC] 
+        Started Run 1 @ 10:22:05
+
+    Model: Inception V4:
+        159772
+
+    Average: 159772 Microseconds
+    Samples: 1
+
+
+
+These are the default configuration options for when running the Phoronix Test Suite in a batch mode (i.e. running phoronix-test-suite batch-benchmark universe). Running in a batch mode is designed to be as autonomous as possible, except for where you'd like any end-user interaction.
+
+    Save test results when in batch mode (Y/n):     Run all test options (Y/n): 
+Batch settings saved.
+
+
+
+
+
+TensorFlow Lite 2022-05-18:
+    pts/tensorflow-lite-1.1.0
+    System Test Configuration
+        1: Mobilenet Float
+        2: Mobilenet Quant
+        3: NASNet Mobile
+        4: SqueezeNet
+        5: Inception ResNet V2
+        6: Inception V4
+        7: Test All Options
+        ** Multiple items can be selected, delimit by a comma. **
+
+
+Phoronix Test Suite v10.8.4
+System Information
+
+
+PROCESSOR:                Intel Xeon E5-2686 v4
+    Core Count:           8                                        
+    Extensions:           SSE 4.2 + AVX2 + AVX + RDRAND + FSGSBASE 
+    Cache Size:           45 MB                                    
+    Microcode:            0xb000040                                
+    Core Family:          Broadwell                                
+
+GRAPHICS:                 
+    Vulkan:               1.1.182          
+
+MOTHERBOARD:              Xen HVM domU
+    BIOS Version:         4.11.amazon      
+
+MEMORY:                   32GB
+
+DISK:                     31GB
+    File-System:          overlayfs        
+
+OPERATING SYSTEM:         Ubuntu 20.04.6 LTS
+    Kernel:               5.15.0-1033-aws (x86_64)                                                                     
+    Compiler:             GCC 9.4.0                                                                                    
+    System Layer:         Xen HVM domU 4.11.amazon                                                                     
+    Security:             itlb_multihit: KVM: Mitigation of VMX unsupported                                            
+                          + l1tf: Mitigation of PTE Inversion                                                          
+                          + mds: Vulnerable: Clear buffers attempted no microcode; SMT Host state unknown              
+                          + meltdown: Mitigation of PTI                                                                
+                          + mmio_stale_data: Vulnerable: Clear buffers attempted no microcode; SMT Host state unknown  
+                          + retbleed: Not affected                                                                     
+                          + spec_store_bypass: Vulnerable                                                              
+                          + spectre_v1: Mitigation of usercopy/swapgs barriers and __user pointer sanitization         
+                          + spectre_v2: Mitigation of Retpolines STIBP: disabled RSB filling PBRSB-eIBRS: Not affected 
+                          + srbds: Not affected                                                                        
+                          + tsx_async_abort: Not affected                                                              
+
+
+TensorFlow Lite 2022-05-18:
+    pts/tensorflow-lite-1.1.0 [Model: Inception V4]
+    Test 1 of 1
+    Estimated Trial Run Count:    1                     
+    Estimated Time To Completion: 2 Minutes [10:26 UTC] 
+        Started Run 1 @ 10:25:05
+
+    Model: Inception V4:
+        152929
+
+    Average: 152929 Microseconds
+    Samples: 1
+
+
+
+These are the default configuration options for when running the Phoronix Test Suite in a batch mode (i.e. running phoronix-test-suite batch-benchmark universe). Running in a batch mode is designed to be as autonomous as possible, except for where you'd like any end-user interaction.
+
+    Save test results when in batch mode (Y/n):     Run all test options (Y/n): 
+Batch settings saved.
+
+
+
+
+
+TensorFlow Lite 2022-05-18:
+    pts/tensorflow-lite-1.1.0
+    System Test Configuration
+        1: Mobilenet Float
+        2: Mobilenet Quant
+        3: NASNet Mobile
+        4: SqueezeNet
+        5: Inception ResNet V2
+        6: Inception V4
+        7: Test All Options
+        ** Multiple items can be selected, delimit by a comma. **
+
+
+Phoronix Test Suite v10.8.4
+System Information
+
+
+PROCESSOR:                Intel Xeon E5-2686 v4
+    Core Count:           8                                        
+    Extensions:           SSE 4.2 + AVX2 + AVX + RDRAND + FSGSBASE 
+    Cache Size:           45 MB                                    
+    Microcode:            0xb000040                                
+    Core Family:          Broadwell                                
+
+GRAPHICS:                 
+    Vulkan:               1.1.182          
+
+MOTHERBOARD:              Xen HVM domU
+    BIOS Version:         4.11.amazon      
+
+MEMORY:                   32GB
+
+DISK:                     31GB
+    File-System:          overlayfs        
+
+OPERATING SYSTEM:         Ubuntu 20.04.6 LTS
+    Kernel:               5.15.0-1033-aws (x86_64)                                                                     
+    Compiler:             GCC 9.4.0                                                                                    
+    System Layer:         Xen HVM domU 4.11.amazon                                                                     
+    Security:             itlb_multihit: KVM: Mitigation of VMX unsupported                                            
+                          + l1tf: Mitigation of PTE Inversion                                                          
+                          + mds: Vulnerable: Clear buffers attempted no microcode; SMT Host state unknown              
+                          + meltdown: Mitigation of PTI                                                                
+                          + mmio_stale_data: Vulnerable: Clear buffers attempted no microcode; SMT Host state unknown  
+                          + retbleed: Not affected                                                                     
+                          + spec_store_bypass: Vulnerable                                                              
+                          + spectre_v1: Mitigation of usercopy/swapgs barriers and __user pointer sanitization         
+                          + spectre_v2: Mitigation of Retpolines STIBP: disabled RSB filling PBRSB-eIBRS: Not affected 
+                          + srbds: Not affected                                                                        
+                          + tsx_async_abort: Not affected                                                              
+
+
+TensorFlow Lite 2022-05-18:
+    pts/tensorflow-lite-1.1.0 [Model: Inception V4]
+    Test 1 of 1
+    Estimated Trial Run Count:    1                     
+    Estimated Time To Completion: 2 Minutes [10:29 UTC] 
+        Started Run 1 @ 10:28:12
+
+    Model: Inception V4:
+        175699
+
+    Average: 175699 Microseconds
+    Samples: 1
+
+
+
+These are the default configuration options for when running the Phoronix Test Suite in a batch mode (i.e. running phoronix-test-suite batch-benchmark universe). Running in a batch mode is designed to be as autonomous as possible, except for where you'd like any end-user interaction.
+
+    Save test results when in batch mode (Y/n):     Run all test options (Y/n): 
+Batch settings saved.
+
+
+
+
+
+TensorFlow Lite 2022-05-18:
+    pts/tensorflow-lite-1.1.0
+    System Test Configuration
+        1: Mobilenet Float
+        2: Mobilenet Quant
+        3: NASNet Mobile
+        4: SqueezeNet
+        5: Inception ResNet V2
+        6: Inception V4
+        7: Test All Options
+        ** Multiple items can be selected, delimit by a comma. **
+
+
+Phoronix Test Suite v10.8.4
+System Information
+
+
+PROCESSOR:                Intel Xeon E5-2686 v4
+    Core Count:           8                                        
+    Extensions:           SSE 4.2 + AVX2 + AVX + RDRAND + FSGSBASE 
+    Cache Size:           45 MB                                    
+    Microcode:            0xb000040                                
+    Core Family:          Broadwell                                
+
+GRAPHICS:                 
+    Vulkan:               1.1.182          
+
+MOTHERBOARD:              Xen HVM domU
+    BIOS Version:         4.11.amazon      
+
+MEMORY:                   32GB
+
+DISK:                     31GB
+    File-System:          overlayfs        
+
+OPERATING SYSTEM:         Ubuntu 20.04.6 LTS
+    Kernel:               5.15.0-1033-aws (x86_64)                                                                     
+    Compiler:             GCC 9.4.0                                                                                    
+    System Layer:         Xen HVM domU 4.11.amazon                                                                     
+    Security:             itlb_multihit: KVM: Mitigation of VMX unsupported                                            
+                          + l1tf: Mitigation of PTE Inversion                                                          
+                          + mds: Vulnerable: Clear buffers attempted no microcode; SMT Host state unknown              
+                          + meltdown: Mitigation of PTI                                                                
+                          + mmio_stale_data: Vulnerable: Clear buffers attempted no microcode; SMT Host state unknown  
+                          + retbleed: Not affected                                                                     
+                          + spec_store_bypass: Vulnerable                                                              
+                          + spectre_v1: Mitigation of usercopy/swapgs barriers and __user pointer sanitization         
+                          + spectre_v2: Mitigation of Retpolines STIBP: disabled RSB filling PBRSB-eIBRS: Not affected 
+                          + srbds: Not affected                                                                        
+                          + tsx_async_abort: Not affected                                                              
+
+
+TensorFlow Lite 2022-05-18:
+    pts/tensorflow-lite-1.1.0 [Model: Inception V4]
+    Test 1 of 1
+    Estimated Trial Run Count:    1                     
+    Estimated Time To Completion: 2 Minutes [10:33 UTC] 
+        Started Run 1 @ 10:32:13
+
+    Model: Inception V4:
+        142826
+
+    Average: 142826 Microseconds
+    Samples: 1
+
+
+
+These are the default configuration options for when running the Phoronix Test Suite in a batch mode (i.e. running phoronix-test-suite batch-benchmark universe). Running in a batch mode is designed to be as autonomous as possible, except for where you'd like any end-user interaction.
+
+    Save test results when in batch mode (Y/n):     Run all test options (Y/n): 
+Batch settings saved.
+
+
+
+
+
+TensorFlow Lite 2022-05-18:
+    pts/tensorflow-lite-1.1.0
+    System Test Configuration
+        1: Mobilenet Float
+        2: Mobilenet Quant
+        3: NASNet Mobile
+        4: SqueezeNet
+        5: Inception ResNet V2
+        6: Inception V4
+        7: Test All Options
+        ** Multiple items can be selected, delimit by a comma. **
+
+
+Phoronix Test Suite v10.8.4
+System Information
+
+
+PROCESSOR:                Intel Xeon E5-2686 v4
+    Core Count:           8                                        
+    Extensions:           SSE 4.2 + AVX2 + AVX + RDRAND + FSGSBASE 
+    Cache Size:           45 MB                                    
+    Microcode:            0xb000040                                
+    Core Family:          Broadwell                                
+
+GRAPHICS:                 
+    Vulkan:               1.1.182          
+
+MOTHERBOARD:              Xen HVM domU
+    BIOS Version:         4.11.amazon      
+
+MEMORY:                   32GB
+
+DISK:                     31GB
+    File-System:          overlayfs        
+
+OPERATING SYSTEM:         Ubuntu 20.04.6 LTS
+    Kernel:               5.15.0-1033-aws (x86_64)                                                                     
+    Compiler:             GCC 9.4.0                                                                                    
+    System Layer:         Xen HVM domU 4.11.amazon                                                                     
+    Security:             itlb_multihit: KVM: Mitigation of VMX unsupported                                            
+                          + l1tf: Mitigation of PTE Inversion                                                          
+                          + mds: Vulnerable: Clear buffers attempted no microcode; SMT Host state unknown              
+                          + meltdown: Mitigation of PTI                                                                
+                          + mmio_stale_data: Vulnerable: Clear buffers attempted no microcode; SMT Host state unknown  
+                          + retbleed: Not affected                                                                     
+                          + spec_store_bypass: Vulnerable                                                              
+                          + spectre_v1: Mitigation of usercopy/swapgs barriers and __user pointer sanitization         
+                          + spectre_v2: Mitigation of Retpolines STIBP: disabled RSB filling PBRSB-eIBRS: Not affected 
+                          + srbds: Not affected                                                                        
+                          + tsx_async_abort: Not affected                                                              
+
+
+TensorFlow Lite 2022-05-18:
+    pts/tensorflow-lite-1.1.0 [Model: Inception V4]
+    Test 1 of 1
+    Estimated Trial Run Count:    1                     
+    Estimated Time To Completion: 2 Minutes [10:36 UTC] 
+        Started Run 1 @ 10:35:10
+
+    Model: Inception V4:
+        146736
+
+    Average: 146736 Microseconds
+    Samples: 1
+
+
+
+These are the default configuration options for when running the Phoronix Test Suite in a batch mode (i.e. running phoronix-test-suite batch-benchmark universe). Running in a batch mode is designed to be as autonomous as possible, except for where you'd like any end-user interaction.
+
+    Save test results when in batch mode (Y/n):     Run all test options (Y/n): 
+Batch settings saved.
+
+
+
+
+
+TensorFlow Lite 2022-05-18:
+    pts/tensorflow-lite-1.1.0
+    System Test Configuration
+        1: Mobilenet Float
+        2: Mobilenet Quant
+        3: NASNet Mobile
+        4: SqueezeNet
+        5: Inception ResNet V2
+        6: Inception V4
+        7: Test All Options
+        ** Multiple items can be selected, delimit by a comma. **
+
+
+Phoronix Test Suite v10.8.4
+System Information
+
+
+PROCESSOR:                Intel Xeon E5-2686 v4
+    Core Count:           8                                        
+    Extensions:           SSE 4.2 + AVX2 + AVX + RDRAND + FSGSBASE 
+    Cache Size:           45 MB                                    
+    Microcode:            0xb000040                                
+    Core Family:          Broadwell                                
+
+GRAPHICS:                 
+    Vulkan:               1.1.182          
+
+MOTHERBOARD:              Xen HVM domU
+    BIOS Version:         4.11.amazon      
+
+MEMORY:                   32GB
+
+DISK:                     31GB
+    File-System:          overlayfs        
+
+OPERATING SYSTEM:         Ubuntu 20.04.6 LTS
+    Kernel:               5.15.0-1033-aws (x86_64)                                                                     
+    Compiler:             GCC 9.4.0                                                                                    
+    System Layer:         Xen HVM domU 4.11.amazon                                                                     
+    Security:             itlb_multihit: KVM: Mitigation of VMX unsupported                                            
+                          + l1tf: Mitigation of PTE Inversion                                                          
+                          + mds: Vulnerable: Clear buffers attempted no microcode; SMT Host state unknown              
+                          + meltdown: Mitigation of PTI                                                                
+                          + mmio_stale_data: Vulnerable: Clear buffers attempted no microcode; SMT Host state unknown  
+                          + retbleed: Not affected                                                                     
+                          + spec_store_bypass: Vulnerable                                                              
+                          + spectre_v1: Mitigation of usercopy/swapgs barriers and __user pointer sanitization         
+                          + spectre_v2: Mitigation of Retpolines STIBP: disabled RSB filling PBRSB-eIBRS: Not affected 
+                          + srbds: Not affected                                                                        
+                          + tsx_async_abort: Not affected                                                              
+
+
+TensorFlow Lite 2022-05-18:
+    pts/tensorflow-lite-1.1.0 [Model: Inception V4]
+    Test 1 of 1
+    Estimated Trial Run Count:    1                     
+    Estimated Time To Completion: 2 Minutes [10:39 UTC] 
+        Started Run 1 @ 10:38:30
+
+    Model: Inception V4:
+        146356
+
+    Average: 146356 Microseconds
+    Samples: 1
+
+
+
+These are the default configuration options for when running the Phoronix Test Suite in a batch mode (i.e. running phoronix-test-suite batch-benchmark universe). Running in a batch mode is designed to be as autonomous as possible, except for where you'd like any end-user interaction.
+
+    Save test results when in batch mode (Y/n):     Run all test options (Y/n): 
+Batch settings saved.
+
+
+
+
+
+TensorFlow Lite 2022-05-18:
+    pts/tensorflow-lite-1.1.0
+    System Test Configuration
+        1: Mobilenet Float
+        2: Mobilenet Quant
+        3: NASNet Mobile
+        4: SqueezeNet
+        5: Inception ResNet V2
+        6: Inception V4
+        7: Test All Options
+        ** Multiple items can be selected, delimit by a comma. **
+
+
+Phoronix Test Suite v10.8.4
+System Information
+
+
+PROCESSOR:                Intel Xeon E5-2686 v4
+    Core Count:           8                                        
+    Extensions:           SSE 4.2 + AVX2 + AVX + RDRAND + FSGSBASE 
+    Cache Size:           45 MB                                    
+    Microcode:            0xb000040                                
+    Core Family:          Broadwell                                
+
+GRAPHICS:                 
+    Vulkan:               1.1.182          
+
+MOTHERBOARD:              Xen HVM domU
+    BIOS Version:         4.11.amazon      
+
+MEMORY:                   32GB
+
+DISK:                     31GB
+    File-System:          overlayfs        
+
+OPERATING SYSTEM:         Ubuntu 20.04.6 LTS
+    Kernel:               5.15.0-1033-aws (x86_64)                                                                     
+    Compiler:             GCC 9.4.0                                                                                    
+    System Layer:         Xen HVM domU 4.11.amazon                                                                     
+    Security:             itlb_multihit: KVM: Mitigation of VMX unsupported                                            
+                          + l1tf: Mitigation of PTE Inversion                                                          
+                          + mds: Vulnerable: Clear buffers attempted no microcode; SMT Host state unknown              
+                          + meltdown: Mitigation of PTI                                                                
+                          + mmio_stale_data: Vulnerable: Clear buffers attempted no microcode; SMT Host state unknown  
+                          + retbleed: Not affected                                                                     
+                          + spec_store_bypass: Vulnerable                                                              
+                          + spectre_v1: Mitigation of usercopy/swapgs barriers and __user pointer sanitization         
+                          + spectre_v2: Mitigation of Retpolines STIBP: disabled RSB filling PBRSB-eIBRS: Not affected 
+                          + srbds: Not affected                                                                        
+                          + tsx_async_abort: Not affected                                                              
+
+
+TensorFlow Lite 2022-05-18:
+    pts/tensorflow-lite-1.1.0 [Model: Inception V4]
+    Test 1 of 1
+    Estimated Trial Run Count:    1                     
+    Estimated Time To Completion: 2 Minutes [10:43 UTC] 
+        Started Run 1 @ 10:42:21
+
+    Model: Inception V4:
+        150451
+
+    Average: 150451 Microseconds
+    Samples: 1
+
+
+
+These are the default configuration options for when running the Phoronix Test Suite in a batch mode (i.e. running phoronix-test-suite batch-benchmark universe). Running in a batch mode is designed to be as autonomous as possible, except for where you'd like any end-user interaction.
+
+    Save test results when in batch mode (Y/n):     Run all test options (Y/n): 
+Batch settings saved.
+
+
+
+
+
+TensorFlow Lite 2022-05-18:
+    pts/tensorflow-lite-1.1.0
+    System Test Configuration
+        1: Mobilenet Float
+        2: Mobilenet Quant
+        3: NASNet Mobile
+        4: SqueezeNet
+        5: Inception ResNet V2
+        6: Inception V4
+        7: Test All Options
+        ** Multiple items can be selected, delimit by a comma. **
+
+
+Phoronix Test Suite v10.8.4
+System Information
+
+
+PROCESSOR:                Intel Xeon E5-2686 v4
+    Core Count:           8                                        
+    Extensions:           SSE 4.2 + AVX2 + AVX + RDRAND + FSGSBASE 
+    Cache Size:           45 MB                                    
+    Microcode:            0xb000040                                
+    Core Family:          Broadwell                                
+
+GRAPHICS:                 
+    Vulkan:               1.1.182          
+
+MOTHERBOARD:              Xen HVM domU
+    BIOS Version:         4.11.amazon      
+
+MEMORY:                   32GB
+
+DISK:                     31GB
+    File-System:          overlayfs        
+
+OPERATING SYSTEM:         Ubuntu 20.04.6 LTS
+    Kernel:               5.15.0-1033-aws (x86_64)                                                                     
+    Compiler:             GCC 9.4.0                                                                                    
+    System Layer:         Xen HVM domU 4.11.amazon                                                                     
+    Security:             itlb_multihit: KVM: Mitigation of VMX unsupported                                            
+                          + l1tf: Mitigation of PTE Inversion                                                          
+                          + mds: Vulnerable: Clear buffers attempted no microcode; SMT Host state unknown              
+                          + meltdown: Mitigation of PTI                                                                
+                          + mmio_stale_data: Vulnerable: Clear buffers attempted no microcode; SMT Host state unknown  
+                          + retbleed: Not affected                                                                     
+                          + spec_store_bypass: Vulnerable                                                              
+                          + spectre_v1: Mitigation of usercopy/swapgs barriers and __user pointer sanitization         
+                          + spectre_v2: Mitigation of Retpolines STIBP: disabled RSB filling PBRSB-eIBRS: Not affected 
+                          + srbds: Not affected                                                                        
+                          + tsx_async_abort: Not affected                                                              
+
+
+TensorFlow Lite 2022-05-18:
+    pts/tensorflow-lite-1.1.0 [Model: Inception V4]
+    Test 1 of 1
+    Estimated Trial Run Count:    1                     
+    Estimated Time To Completion: 2 Minutes [10:46 UTC] 
+        Started Run 1 @ 10:45:17
+
+    Model: Inception V4:
+        138863
+
+    Average: 138863 Microseconds
+    Samples: 1
+

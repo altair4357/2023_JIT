@@ -1,0 +1,975 @@
+
+
+These are the default configuration options for when running the Phoronix Test Suite in a batch mode (i.e. running phoronix-test-suite batch-benchmark universe). Running in a batch mode is designed to be as autonomous as possible, except for where you'd like any end-user interaction.
+
+    Save test results when in batch mode (Y/n):     Run all test options (Y/n): 
+Batch settings saved.
+
+
+
+
+
+Blender:
+    system/blender-1.2.1
+    System Test Configuration
+        1: BMW27
+        2: Classroom
+        3: Fishy Cat
+        4: Pabellon Barcelona
+        5: Barbershop
+        6: Test All Options
+        ** Multiple items can be selected, delimit by a comma. **
+
+
+Phoronix Test Suite v10.8.4
+System Information
+
+
+PROCESSOR:                Intel Xeon E5-2686 v4
+    Core Count:           8                                        
+    Extensions:           SSE 4.2 + AVX2 + AVX + RDRAND + FSGSBASE 
+    Cache Size:           45 MB                                    
+    Microcode:            0xb000040                                
+    Core Family:          Broadwell                                
+
+GRAPHICS:                 
+    Vulkan:               1.1.182          
+
+MOTHERBOARD:              Xen HVM domU
+    BIOS Version:         4.11.amazon      
+
+MEMORY:                   32GB
+
+DISK:                     31GB
+    File-System:          overlayfs        
+
+OPERATING SYSTEM:         Ubuntu 20.04.6 LTS
+    Kernel:               5.15.0-1033-aws (x86_64)                                                                     
+    Compiler:             GCC 9.4.0                                                                                    
+    System Layer:         Xen HVM domU 4.11.amazon                                                                     
+    Security:             itlb_multihit: KVM: Mitigation of VMX unsupported                                            
+                          + l1tf: Mitigation of PTE Inversion                                                          
+                          + mds: Vulnerable: Clear buffers attempted no microcode; SMT Host state unknown              
+                          + meltdown: Mitigation of PTI                                                                
+                          + mmio_stale_data: Vulnerable: Clear buffers attempted no microcode; SMT Host state unknown  
+                          + retbleed: Not affected                                                                     
+                          + spec_store_bypass: Vulnerable                                                              
+                          + spectre_v1: Mitigation of usercopy/swapgs barriers and __user pointer sanitization         
+                          + spectre_v2: Mitigation of Retpolines STIBP: disabled RSB filling PBRSB-eIBRS: Not affected 
+                          + srbds: Not affected                                                                        
+                          + tsx_async_abort: Not affected                                                              
+
+
+Blender:
+    system/blender-1.2.1 [Blend File: BMW27 - Compute: CPU-Only]
+    Test 1 of 1
+    Estimated Trial Run Count:    1                     
+    Estimated Time To Completion: 7 Minutes [02:10 UTC] 
+        Started Run 1 @ 02:03:25
+
+    Blend File: BMW27 - Compute: CPU-Only:
+        476.44
+
+    Average: 476.44 Seconds
+    Samples: 1
+
+
+
+These are the default configuration options for when running the Phoronix Test Suite in a batch mode (i.e. running phoronix-test-suite batch-benchmark universe). Running in a batch mode is designed to be as autonomous as possible, except for where you'd like any end-user interaction.
+
+    Save test results when in batch mode (Y/n):     Run all test options (Y/n): 
+Batch settings saved.
+
+
+
+
+
+Blender:
+    system/blender-1.2.1
+    System Test Configuration
+        1: BMW27
+        2: Classroom
+        3: Fishy Cat
+        4: Pabellon Barcelona
+        5: Barbershop
+        6: Test All Options
+        ** Multiple items can be selected, delimit by a comma. **
+
+
+Phoronix Test Suite v10.8.4
+System Information
+
+
+PROCESSOR:                Intel Xeon E5-2686 v4
+    Core Count:           8                                        
+    Extensions:           SSE 4.2 + AVX2 + AVX + RDRAND + FSGSBASE 
+    Cache Size:           45 MB                                    
+    Microcode:            0xb000040                                
+    Core Family:          Broadwell                                
+
+GRAPHICS:                 
+    Vulkan:               1.1.182          
+
+MOTHERBOARD:              Xen HVM domU
+    BIOS Version:         4.11.amazon      
+
+MEMORY:                   32GB
+
+DISK:                     31GB
+    File-System:          overlayfs        
+
+OPERATING SYSTEM:         Ubuntu 20.04.6 LTS
+    Kernel:               5.15.0-1033-aws (x86_64)                                                                     
+    Compiler:             GCC 9.4.0                                                                                    
+    System Layer:         Xen HVM domU 4.11.amazon                                                                     
+    Security:             itlb_multihit: KVM: Mitigation of VMX unsupported                                            
+                          + l1tf: Mitigation of PTE Inversion                                                          
+                          + mds: Vulnerable: Clear buffers attempted no microcode; SMT Host state unknown              
+                          + meltdown: Mitigation of PTI                                                                
+                          + mmio_stale_data: Vulnerable: Clear buffers attempted no microcode; SMT Host state unknown  
+                          + retbleed: Not affected                                                                     
+                          + spec_store_bypass: Vulnerable                                                              
+                          + spectre_v1: Mitigation of usercopy/swapgs barriers and __user pointer sanitization         
+                          + spectre_v2: Mitigation of Retpolines STIBP: disabled RSB filling PBRSB-eIBRS: Not affected 
+                          + srbds: Not affected                                                                        
+                          + tsx_async_abort: Not affected                                                              
+
+
+Blender:
+    system/blender-1.2.1 [Blend File: BMW27 - Compute: CPU-Only]
+    Test 1 of 1
+    Estimated Trial Run Count:    1                     
+    Estimated Time To Completion: 7 Minutes [02:18 UTC] 
+        Started Run 1 @ 02:11:56
+
+    Blend File: BMW27 - Compute: CPU-Only:
+        476.69
+
+    Average: 476.69 Seconds
+    Samples: 1
+
+
+
+These are the default configuration options for when running the Phoronix Test Suite in a batch mode (i.e. running phoronix-test-suite batch-benchmark universe). Running in a batch mode is designed to be as autonomous as possible, except for where you'd like any end-user interaction.
+
+    Save test results when in batch mode (Y/n):     Run all test options (Y/n): 
+Batch settings saved.
+
+
+
+
+
+Blender:
+    system/blender-1.2.1
+    System Test Configuration
+        1: BMW27
+        2: Classroom
+        3: Fishy Cat
+        4: Pabellon Barcelona
+        5: Barbershop
+        6: Test All Options
+        ** Multiple items can be selected, delimit by a comma. **
+
+
+Phoronix Test Suite v10.8.4
+System Information
+
+
+PROCESSOR:                Intel Xeon E5-2686 v4
+    Core Count:           8                                        
+    Extensions:           SSE 4.2 + AVX2 + AVX + RDRAND + FSGSBASE 
+    Cache Size:           45 MB                                    
+    Microcode:            0xb000040                                
+    Core Family:          Broadwell                                
+
+GRAPHICS:                 
+    Vulkan:               1.1.182          
+
+MOTHERBOARD:              Xen HVM domU
+    BIOS Version:         4.11.amazon      
+
+MEMORY:                   32GB
+
+DISK:                     31GB
+    File-System:          overlayfs        
+
+OPERATING SYSTEM:         Ubuntu 20.04.6 LTS
+    Kernel:               5.15.0-1033-aws (x86_64)                                                                     
+    Compiler:             GCC 9.4.0                                                                                    
+    System Layer:         Xen HVM domU 4.11.amazon                                                                     
+    Security:             itlb_multihit: KVM: Mitigation of VMX unsupported                                            
+                          + l1tf: Mitigation of PTE Inversion                                                          
+                          + mds: Vulnerable: Clear buffers attempted no microcode; SMT Host state unknown              
+                          + meltdown: Mitigation of PTI                                                                
+                          + mmio_stale_data: Vulnerable: Clear buffers attempted no microcode; SMT Host state unknown  
+                          + retbleed: Not affected                                                                     
+                          + spec_store_bypass: Vulnerable                                                              
+                          + spectre_v1: Mitigation of usercopy/swapgs barriers and __user pointer sanitization         
+                          + spectre_v2: Mitigation of Retpolines STIBP: disabled RSB filling PBRSB-eIBRS: Not affected 
+                          + srbds: Not affected                                                                        
+                          + tsx_async_abort: Not affected                                                              
+
+
+Blender:
+    system/blender-1.2.1 [Blend File: BMW27 - Compute: CPU-Only]
+    Test 1 of 1
+    Estimated Trial Run Count:    1                     
+    Estimated Time To Completion: 7 Minutes [02:27 UTC] 
+        Started Run 1 @ 02:20:22
+
+    Blend File: BMW27 - Compute: CPU-Only:
+        473.33
+
+    Average: 473.33 Seconds
+    Samples: 1
+
+
+
+These are the default configuration options for when running the Phoronix Test Suite in a batch mode (i.e. running phoronix-test-suite batch-benchmark universe). Running in a batch mode is designed to be as autonomous as possible, except for where you'd like any end-user interaction.
+
+    Save test results when in batch mode (Y/n):     Run all test options (Y/n): 
+Batch settings saved.
+
+
+
+
+
+Blender:
+    system/blender-1.2.1
+    System Test Configuration
+        1: BMW27
+        2: Classroom
+        3: Fishy Cat
+        4: Pabellon Barcelona
+        5: Barbershop
+        6: Test All Options
+        ** Multiple items can be selected, delimit by a comma. **
+
+
+Phoronix Test Suite v10.8.4
+System Information
+
+
+PROCESSOR:                Intel Xeon E5-2686 v4
+    Core Count:           8                                        
+    Extensions:           SSE 4.2 + AVX2 + AVX + RDRAND + FSGSBASE 
+    Cache Size:           45 MB                                    
+    Microcode:            0xb000040                                
+    Core Family:          Broadwell                                
+
+GRAPHICS:                 
+    Vulkan:               1.1.182          
+
+MOTHERBOARD:              Xen HVM domU
+    BIOS Version:         4.11.amazon      
+
+MEMORY:                   32GB
+
+DISK:                     31GB
+    File-System:          overlayfs        
+
+OPERATING SYSTEM:         Ubuntu 20.04.6 LTS
+    Kernel:               5.15.0-1033-aws (x86_64)                                                                     
+    Compiler:             GCC 9.4.0                                                                                    
+    System Layer:         Xen HVM domU 4.11.amazon                                                                     
+    Security:             itlb_multihit: KVM: Mitigation of VMX unsupported                                            
+                          + l1tf: Mitigation of PTE Inversion                                                          
+                          + mds: Vulnerable: Clear buffers attempted no microcode; SMT Host state unknown              
+                          + meltdown: Mitigation of PTI                                                                
+                          + mmio_stale_data: Vulnerable: Clear buffers attempted no microcode; SMT Host state unknown  
+                          + retbleed: Not affected                                                                     
+                          + spec_store_bypass: Vulnerable                                                              
+                          + spectre_v1: Mitigation of usercopy/swapgs barriers and __user pointer sanitization         
+                          + spectre_v2: Mitigation of Retpolines STIBP: disabled RSB filling PBRSB-eIBRS: Not affected 
+                          + srbds: Not affected                                                                        
+                          + tsx_async_abort: Not affected                                                              
+
+
+Blender:
+    system/blender-1.2.1 [Blend File: BMW27 - Compute: CPU-Only]
+    Test 1 of 1
+    Estimated Trial Run Count:    1                     
+    Estimated Time To Completion: 7 Minutes [02:35 UTC] 
+        Started Run 1 @ 02:28:37
+
+    Blend File: BMW27 - Compute: CPU-Only:
+        463.45
+
+    Average: 463.45 Seconds
+    Samples: 1
+
+
+
+These are the default configuration options for when running the Phoronix Test Suite in a batch mode (i.e. running phoronix-test-suite batch-benchmark universe). Running in a batch mode is designed to be as autonomous as possible, except for where you'd like any end-user interaction.
+
+    Save test results when in batch mode (Y/n):     Run all test options (Y/n): 
+Batch settings saved.
+
+
+
+
+
+Blender:
+    system/blender-1.2.1
+    System Test Configuration
+        1: BMW27
+        2: Classroom
+        3: Fishy Cat
+        4: Pabellon Barcelona
+        5: Barbershop
+        6: Test All Options
+        ** Multiple items can be selected, delimit by a comma. **
+
+
+Phoronix Test Suite v10.8.4
+System Information
+
+
+PROCESSOR:                Intel Xeon E5-2686 v4
+    Core Count:           8                                        
+    Extensions:           SSE 4.2 + AVX2 + AVX + RDRAND + FSGSBASE 
+    Cache Size:           45 MB                                    
+    Microcode:            0xb000040                                
+    Core Family:          Broadwell                                
+
+GRAPHICS:                 
+    Vulkan:               1.1.182          
+
+MOTHERBOARD:              Xen HVM domU
+    BIOS Version:         4.11.amazon      
+
+MEMORY:                   32GB
+
+DISK:                     31GB
+    File-System:          overlayfs        
+
+OPERATING SYSTEM:         Ubuntu 20.04.6 LTS
+    Kernel:               5.15.0-1033-aws (x86_64)                                                                     
+    Compiler:             GCC 9.4.0                                                                                    
+    System Layer:         Xen HVM domU 4.11.amazon                                                                     
+    Security:             itlb_multihit: KVM: Mitigation of VMX unsupported                                            
+                          + l1tf: Mitigation of PTE Inversion                                                          
+                          + mds: Vulnerable: Clear buffers attempted no microcode; SMT Host state unknown              
+                          + meltdown: Mitigation of PTI                                                                
+                          + mmio_stale_data: Vulnerable: Clear buffers attempted no microcode; SMT Host state unknown  
+                          + retbleed: Not affected                                                                     
+                          + spec_store_bypass: Vulnerable                                                              
+                          + spectre_v1: Mitigation of usercopy/swapgs barriers and __user pointer sanitization         
+                          + spectre_v2: Mitigation of Retpolines STIBP: disabled RSB filling PBRSB-eIBRS: Not affected 
+                          + srbds: Not affected                                                                        
+                          + tsx_async_abort: Not affected                                                              
+
+
+Blender:
+    system/blender-1.2.1 [Blend File: BMW27 - Compute: CPU-Only]
+    Test 1 of 1
+    Estimated Trial Run Count:    1                     
+    Estimated Time To Completion: 7 Minutes [02:43 UTC] 
+        Started Run 1 @ 02:36:58
+
+    Blend File: BMW27 - Compute: CPU-Only:
+        473.2
+
+    Average: 473.2 Seconds
+    Samples: 1
+
+
+
+These are the default configuration options for when running the Phoronix Test Suite in a batch mode (i.e. running phoronix-test-suite batch-benchmark universe). Running in a batch mode is designed to be as autonomous as possible, except for where you'd like any end-user interaction.
+
+    Save test results when in batch mode (Y/n):     Run all test options (Y/n): 
+Batch settings saved.
+
+
+
+
+
+Blender:
+    system/blender-1.2.1
+    System Test Configuration
+        1: BMW27
+        2: Classroom
+        3: Fishy Cat
+        4: Pabellon Barcelona
+        5: Barbershop
+        6: Test All Options
+        ** Multiple items can be selected, delimit by a comma. **
+
+
+Phoronix Test Suite v10.8.4
+System Information
+
+
+PROCESSOR:                Intel Xeon E5-2686 v4
+    Core Count:           8                                        
+    Extensions:           SSE 4.2 + AVX2 + AVX + RDRAND + FSGSBASE 
+    Cache Size:           45 MB                                    
+    Microcode:            0xb000040                                
+    Core Family:          Broadwell                                
+
+GRAPHICS:                 
+    Vulkan:               1.1.182          
+
+MOTHERBOARD:              Xen HVM domU
+    BIOS Version:         4.11.amazon      
+
+MEMORY:                   32GB
+
+DISK:                     31GB
+    File-System:          overlayfs        
+
+OPERATING SYSTEM:         Ubuntu 20.04.6 LTS
+    Kernel:               5.15.0-1033-aws (x86_64)                                                                     
+    Compiler:             GCC 9.4.0                                                                                    
+    System Layer:         Xen HVM domU 4.11.amazon                                                                     
+    Security:             itlb_multihit: KVM: Mitigation of VMX unsupported                                            
+                          + l1tf: Mitigation of PTE Inversion                                                          
+                          + mds: Vulnerable: Clear buffers attempted no microcode; SMT Host state unknown              
+                          + meltdown: Mitigation of PTI                                                                
+                          + mmio_stale_data: Vulnerable: Clear buffers attempted no microcode; SMT Host state unknown  
+                          + retbleed: Not affected                                                                     
+                          + spec_store_bypass: Vulnerable                                                              
+                          + spectre_v1: Mitigation of usercopy/swapgs barriers and __user pointer sanitization         
+                          + spectre_v2: Mitigation of Retpolines STIBP: disabled RSB filling PBRSB-eIBRS: Not affected 
+                          + srbds: Not affected                                                                        
+                          + tsx_async_abort: Not affected                                                              
+
+
+Blender:
+    system/blender-1.2.1 [Blend File: BMW27 - Compute: CPU-Only]
+    Test 1 of 1
+    Estimated Trial Run Count:    1                     
+    Estimated Time To Completion: 7 Minutes [02:52 UTC] 
+        Started Run 1 @ 02:45:18
+
+    Blend File: BMW27 - Compute: CPU-Only:
+        478.97
+
+    Average: 478.97 Seconds
+    Samples: 1
+
+
+
+These are the default configuration options for when running the Phoronix Test Suite in a batch mode (i.e. running phoronix-test-suite batch-benchmark universe). Running in a batch mode is designed to be as autonomous as possible, except for where you'd like any end-user interaction.
+
+    Save test results when in batch mode (Y/n):     Run all test options (Y/n): 
+Batch settings saved.
+
+
+
+
+
+Blender:
+    system/blender-1.2.1
+    System Test Configuration
+        1: BMW27
+        2: Classroom
+        3: Fishy Cat
+        4: Pabellon Barcelona
+        5: Barbershop
+        6: Test All Options
+        ** Multiple items can be selected, delimit by a comma. **
+
+
+Phoronix Test Suite v10.8.4
+System Information
+
+
+PROCESSOR:                Intel Xeon E5-2686 v4
+    Core Count:           8                                        
+    Extensions:           SSE 4.2 + AVX2 + AVX + RDRAND + FSGSBASE 
+    Cache Size:           45 MB                                    
+    Microcode:            0xb000040                                
+    Core Family:          Broadwell                                
+
+GRAPHICS:                 
+    Vulkan:               1.1.182          
+
+MOTHERBOARD:              Xen HVM domU
+    BIOS Version:         4.11.amazon      
+
+MEMORY:                   32GB
+
+DISK:                     31GB
+    File-System:          overlayfs        
+
+OPERATING SYSTEM:         Ubuntu 20.04.6 LTS
+    Kernel:               5.15.0-1033-aws (x86_64)                                                                     
+    Compiler:             GCC 9.4.0                                                                                    
+    System Layer:         Xen HVM domU 4.11.amazon                                                                     
+    Security:             itlb_multihit: KVM: Mitigation of VMX unsupported                                            
+                          + l1tf: Mitigation of PTE Inversion                                                          
+                          + mds: Vulnerable: Clear buffers attempted no microcode; SMT Host state unknown              
+                          + meltdown: Mitigation of PTI                                                                
+                          + mmio_stale_data: Vulnerable: Clear buffers attempted no microcode; SMT Host state unknown  
+                          + retbleed: Not affected                                                                     
+                          + spec_store_bypass: Vulnerable                                                              
+                          + spectre_v1: Mitigation of usercopy/swapgs barriers and __user pointer sanitization         
+                          + spectre_v2: Mitigation of Retpolines STIBP: disabled RSB filling PBRSB-eIBRS: Not affected 
+                          + srbds: Not affected                                                                        
+                          + tsx_async_abort: Not affected                                                              
+
+
+Blender:
+    system/blender-1.2.1 [Blend File: BMW27 - Compute: CPU-Only]
+    Test 1 of 1
+    Estimated Trial Run Count:    1                     
+    Estimated Time To Completion: 7 Minutes [03:00 UTC] 
+        Started Run 1 @ 02:53:42
+
+    Blend File: BMW27 - Compute: CPU-Only:
+        475.89
+
+    Average: 475.89 Seconds
+    Samples: 1
+
+
+
+These are the default configuration options for when running the Phoronix Test Suite in a batch mode (i.e. running phoronix-test-suite batch-benchmark universe). Running in a batch mode is designed to be as autonomous as possible, except for where you'd like any end-user interaction.
+
+    Save test results when in batch mode (Y/n):     Run all test options (Y/n): 
+Batch settings saved.
+
+
+
+
+
+Blender:
+    system/blender-1.2.1
+    System Test Configuration
+        1: BMW27
+        2: Classroom
+        3: Fishy Cat
+        4: Pabellon Barcelona
+        5: Barbershop
+        6: Test All Options
+        ** Multiple items can be selected, delimit by a comma. **
+
+
+Phoronix Test Suite v10.8.4
+System Information
+
+
+PROCESSOR:                Intel Xeon E5-2686 v4
+    Core Count:           8                                        
+    Extensions:           SSE 4.2 + AVX2 + AVX + RDRAND + FSGSBASE 
+    Cache Size:           45 MB                                    
+    Microcode:            0xb000040                                
+    Core Family:          Broadwell                                
+
+GRAPHICS:                 
+    Vulkan:               1.1.182          
+
+MOTHERBOARD:              Xen HVM domU
+    BIOS Version:         4.11.amazon      
+
+MEMORY:                   32GB
+
+DISK:                     31GB
+    File-System:          overlayfs        
+
+OPERATING SYSTEM:         Ubuntu 20.04.6 LTS
+    Kernel:               5.15.0-1033-aws (x86_64)                                                                     
+    Compiler:             GCC 9.4.0                                                                                    
+    System Layer:         Xen HVM domU 4.11.amazon                                                                     
+    Security:             itlb_multihit: KVM: Mitigation of VMX unsupported                                            
+                          + l1tf: Mitigation of PTE Inversion                                                          
+                          + mds: Vulnerable: Clear buffers attempted no microcode; SMT Host state unknown              
+                          + meltdown: Mitigation of PTI                                                                
+                          + mmio_stale_data: Vulnerable: Clear buffers attempted no microcode; SMT Host state unknown  
+                          + retbleed: Not affected                                                                     
+                          + spec_store_bypass: Vulnerable                                                              
+                          + spectre_v1: Mitigation of usercopy/swapgs barriers and __user pointer sanitization         
+                          + spectre_v2: Mitigation of Retpolines STIBP: disabled RSB filling PBRSB-eIBRS: Not affected 
+                          + srbds: Not affected                                                                        
+                          + tsx_async_abort: Not affected                                                              
+
+
+Blender:
+    system/blender-1.2.1 [Blend File: BMW27 - Compute: CPU-Only]
+    Test 1 of 1
+    Estimated Trial Run Count:    1                     
+    Estimated Time To Completion: 7 Minutes [03:08 UTC] 
+        Started Run 1 @ 03:02:05
+
+    Blend File: BMW27 - Compute: CPU-Only:
+        477.76
+
+    Average: 477.76 Seconds
+    Samples: 1
+
+
+
+These are the default configuration options for when running the Phoronix Test Suite in a batch mode (i.e. running phoronix-test-suite batch-benchmark universe). Running in a batch mode is designed to be as autonomous as possible, except for where you'd like any end-user interaction.
+
+    Save test results when in batch mode (Y/n):     Run all test options (Y/n): 
+Batch settings saved.
+
+
+
+
+
+Blender:
+    system/blender-1.2.1
+    System Test Configuration
+        1: BMW27
+        2: Classroom
+        3: Fishy Cat
+        4: Pabellon Barcelona
+        5: Barbershop
+        6: Test All Options
+        ** Multiple items can be selected, delimit by a comma. **
+
+
+Phoronix Test Suite v10.8.4
+System Information
+
+
+PROCESSOR:                Intel Xeon E5-2686 v4
+    Core Count:           8                                        
+    Extensions:           SSE 4.2 + AVX2 + AVX + RDRAND + FSGSBASE 
+    Cache Size:           45 MB                                    
+    Microcode:            0xb000040                                
+    Core Family:          Broadwell                                
+
+GRAPHICS:                 
+    Vulkan:               1.1.182          
+
+MOTHERBOARD:              Xen HVM domU
+    BIOS Version:         4.11.amazon      
+
+MEMORY:                   32GB
+
+DISK:                     31GB
+    File-System:          overlayfs        
+
+OPERATING SYSTEM:         Ubuntu 20.04.6 LTS
+    Kernel:               5.15.0-1033-aws (x86_64)                                                                     
+    Compiler:             GCC 9.4.0                                                                                    
+    System Layer:         Xen HVM domU 4.11.amazon                                                                     
+    Security:             itlb_multihit: KVM: Mitigation of VMX unsupported                                            
+                          + l1tf: Mitigation of PTE Inversion                                                          
+                          + mds: Vulnerable: Clear buffers attempted no microcode; SMT Host state unknown              
+                          + meltdown: Mitigation of PTI                                                                
+                          + mmio_stale_data: Vulnerable: Clear buffers attempted no microcode; SMT Host state unknown  
+                          + retbleed: Not affected                                                                     
+                          + spec_store_bypass: Vulnerable                                                              
+                          + spectre_v1: Mitigation of usercopy/swapgs barriers and __user pointer sanitization         
+                          + spectre_v2: Mitigation of Retpolines STIBP: disabled RSB filling PBRSB-eIBRS: Not affected 
+                          + srbds: Not affected                                                                        
+                          + tsx_async_abort: Not affected                                                              
+
+
+Blender:
+    system/blender-1.2.1 [Blend File: BMW27 - Compute: CPU-Only]
+    Test 1 of 1
+    Estimated Trial Run Count:    1                     
+    Estimated Time To Completion: 7 Minutes [03:19 UTC] 
+        Started Run 1 @ 03:12:19
+
+    Blend File: BMW27 - Compute: CPU-Only:
+        476.5
+
+    Average: 476.5 Seconds
+    Samples: 1
+
+
+
+These are the default configuration options for when running the Phoronix Test Suite in a batch mode (i.e. running phoronix-test-suite batch-benchmark universe). Running in a batch mode is designed to be as autonomous as possible, except for where you'd like any end-user interaction.
+
+    Save test results when in batch mode (Y/n):     Run all test options (Y/n): 
+Batch settings saved.
+
+
+
+
+
+Blender:
+    system/blender-1.2.1
+    System Test Configuration
+        1: BMW27
+        2: Classroom
+        3: Fishy Cat
+        4: Pabellon Barcelona
+        5: Barbershop
+        6: Test All Options
+        ** Multiple items can be selected, delimit by a comma. **
+
+
+Phoronix Test Suite v10.8.4
+System Information
+
+
+PROCESSOR:                Intel Xeon E5-2686 v4
+    Core Count:           8                                        
+    Extensions:           SSE 4.2 + AVX2 + AVX + RDRAND + FSGSBASE 
+    Cache Size:           45 MB                                    
+    Microcode:            0xb000040                                
+    Core Family:          Broadwell                                
+
+GRAPHICS:                 
+    Vulkan:               1.1.182          
+
+MOTHERBOARD:              Xen HVM domU
+    BIOS Version:         4.11.amazon      
+
+MEMORY:                   32GB
+
+DISK:                     31GB
+    File-System:          overlayfs        
+
+OPERATING SYSTEM:         Ubuntu 20.04.6 LTS
+    Kernel:               5.15.0-1033-aws (x86_64)                                                                     
+    Compiler:             GCC 9.4.0                                                                                    
+    System Layer:         Xen HVM domU 4.11.amazon                                                                     
+    Security:             itlb_multihit: KVM: Mitigation of VMX unsupported                                            
+                          + l1tf: Mitigation of PTE Inversion                                                          
+                          + mds: Vulnerable: Clear buffers attempted no microcode; SMT Host state unknown              
+                          + meltdown: Mitigation of PTI                                                                
+                          + mmio_stale_data: Vulnerable: Clear buffers attempted no microcode; SMT Host state unknown  
+                          + retbleed: Not affected                                                                     
+                          + spec_store_bypass: Vulnerable                                                              
+                          + spectre_v1: Mitigation of usercopy/swapgs barriers and __user pointer sanitization         
+                          + spectre_v2: Mitigation of Retpolines STIBP: disabled RSB filling PBRSB-eIBRS: Not affected 
+                          + srbds: Not affected                                                                        
+                          + tsx_async_abort: Not affected                                                              
+
+
+Blender:
+    system/blender-1.2.1 [Blend File: BMW27 - Compute: CPU-Only]
+    Test 1 of 1
+    Estimated Trial Run Count:    1                     
+    Estimated Time To Completion: 7 Minutes [03:48 UTC] 
+        Started Run 1 @ 03:41:48
+
+    Blend File: BMW27 - Compute: CPU-Only:
+        479.31
+
+    Average: 479.31 Seconds
+    Samples: 1
+
+
+
+These are the default configuration options for when running the Phoronix Test Suite in a batch mode (i.e. running phoronix-test-suite batch-benchmark universe). Running in a batch mode is designed to be as autonomous as possible, except for where you'd like any end-user interaction.
+
+    Save test results when in batch mode (Y/n):     Run all test options (Y/n): 
+Batch settings saved.
+
+
+
+
+
+Blender:
+    system/blender-1.2.1
+    System Test Configuration
+        1: BMW27
+        2: Classroom
+        3: Fishy Cat
+        4: Pabellon Barcelona
+        5: Barbershop
+        6: Test All Options
+        ** Multiple items can be selected, delimit by a comma. **
+
+
+Phoronix Test Suite v10.8.4
+System Information
+
+
+PROCESSOR:                Intel Xeon E5-2686 v4
+    Core Count:           8                                        
+    Extensions:           SSE 4.2 + AVX2 + AVX + RDRAND + FSGSBASE 
+    Cache Size:           45 MB                                    
+    Microcode:            0xb000040                                
+    Core Family:          Broadwell                                
+
+GRAPHICS:                 
+    Vulkan:               1.1.182          
+
+MOTHERBOARD:              Xen HVM domU
+    BIOS Version:         4.11.amazon      
+
+MEMORY:                   32GB
+
+DISK:                     31GB
+    File-System:          overlayfs        
+
+OPERATING SYSTEM:         Ubuntu 20.04.6 LTS
+    Kernel:               5.15.0-1033-aws (x86_64)                                                                     
+    Compiler:             GCC 9.4.0                                                                                    
+    System Layer:         Xen HVM domU 4.11.amazon                                                                     
+    Security:             itlb_multihit: KVM: Mitigation of VMX unsupported                                            
+                          + l1tf: Mitigation of PTE Inversion                                                          
+                          + mds: Vulnerable: Clear buffers attempted no microcode; SMT Host state unknown              
+                          + meltdown: Mitigation of PTI                                                                
+                          + mmio_stale_data: Vulnerable: Clear buffers attempted no microcode; SMT Host state unknown  
+                          + retbleed: Not affected                                                                     
+                          + spec_store_bypass: Vulnerable                                                              
+                          + spectre_v1: Mitigation of usercopy/swapgs barriers and __user pointer sanitization         
+                          + spectre_v2: Mitigation of Retpolines STIBP: disabled RSB filling PBRSB-eIBRS: Not affected 
+                          + srbds: Not affected                                                                        
+                          + tsx_async_abort: Not affected                                                              
+
+
+Blender:
+    system/blender-1.2.1 [Blend File: BMW27 - Compute: CPU-Only]
+    Test 1 of 1
+    Estimated Trial Run Count:    1                     
+    Estimated Time To Completion: 7 Minutes [04:16 UTC] 
+        Started Run 1 @ 04:10:05
+
+    Blend File: BMW27 - Compute: CPU-Only:
+        473.49
+
+    Average: 473.49 Seconds
+    Samples: 1
+
+
+
+These are the default configuration options for when running the Phoronix Test Suite in a batch mode (i.e. running phoronix-test-suite batch-benchmark universe). Running in a batch mode is designed to be as autonomous as possible, except for where you'd like any end-user interaction.
+
+    Save test results when in batch mode (Y/n):     Run all test options (Y/n): 
+Batch settings saved.
+
+
+
+
+
+Blender:
+    system/blender-1.2.1
+    System Test Configuration
+        1: BMW27
+        2: Classroom
+        3: Fishy Cat
+        4: Pabellon Barcelona
+        5: Barbershop
+        6: Test All Options
+        ** Multiple items can be selected, delimit by a comma. **
+
+
+Phoronix Test Suite v10.8.4
+System Information
+
+
+PROCESSOR:                Intel Xeon E5-2686 v4
+    Core Count:           8                                        
+    Extensions:           SSE 4.2 + AVX2 + AVX + RDRAND + FSGSBASE 
+    Cache Size:           45 MB                                    
+    Microcode:            0xb000040                                
+    Core Family:          Broadwell                                
+
+GRAPHICS:                 
+    Vulkan:               1.1.182          
+
+MOTHERBOARD:              Xen HVM domU
+    BIOS Version:         4.11.amazon      
+
+MEMORY:                   32GB
+
+DISK:                     31GB
+    File-System:          overlayfs        
+
+OPERATING SYSTEM:         Ubuntu 20.04.6 LTS
+    Kernel:               5.15.0-1033-aws (x86_64)                                                                     
+    Compiler:             GCC 9.4.0                                                                                    
+    System Layer:         Xen HVM domU 4.11.amazon                                                                     
+    Security:             itlb_multihit: KVM: Mitigation of VMX unsupported                                            
+                          + l1tf: Mitigation of PTE Inversion                                                          
+                          + mds: Vulnerable: Clear buffers attempted no microcode; SMT Host state unknown              
+                          + meltdown: Mitigation of PTI                                                                
+                          + mmio_stale_data: Vulnerable: Clear buffers attempted no microcode; SMT Host state unknown  
+                          + retbleed: Not affected                                                                     
+                          + spec_store_bypass: Vulnerable                                                              
+                          + spectre_v1: Mitigation of usercopy/swapgs barriers and __user pointer sanitization         
+                          + spectre_v2: Mitigation of Retpolines STIBP: disabled RSB filling PBRSB-eIBRS: Not affected 
+                          + srbds: Not affected                                                                        
+                          + tsx_async_abort: Not affected                                                              
+
+
+Blender:
+    system/blender-1.2.1 [Blend File: BMW27 - Compute: CPU-Only]
+    Test 1 of 1
+    Estimated Trial Run Count:    1                     
+    Estimated Time To Completion: 7 Minutes [04:45 UTC] 
+        Started Run 1 @ 04:38:18
+
+    Blend File: BMW27 - Compute: CPU-Only:
+        471.19
+
+    Average: 471.19 Seconds
+    Samples: 1
+
+
+
+These are the default configuration options for when running the Phoronix Test Suite in a batch mode (i.e. running phoronix-test-suite batch-benchmark universe). Running in a batch mode is designed to be as autonomous as possible, except for where you'd like any end-user interaction.
+
+    Save test results when in batch mode (Y/n):     Run all test options (Y/n): 
+Batch settings saved.
+
+
+
+
+
+Blender:
+    system/blender-1.2.1
+    System Test Configuration
+        1: BMW27
+        2: Classroom
+        3: Fishy Cat
+        4: Pabellon Barcelona
+        5: Barbershop
+        6: Test All Options
+        ** Multiple items can be selected, delimit by a comma. **
+
+
+Phoronix Test Suite v10.8.4
+System Information
+
+
+PROCESSOR:                Intel Xeon E5-2686 v4
+    Core Count:           8                                        
+    Extensions:           SSE 4.2 + AVX2 + AVX + RDRAND + FSGSBASE 
+    Cache Size:           45 MB                                    
+    Microcode:            0xb000040                                
+    Core Family:          Broadwell                                
+
+GRAPHICS:                 
+    Vulkan:               1.1.182          
+
+MOTHERBOARD:              Xen HVM domU
+    BIOS Version:         4.11.amazon      
+
+MEMORY:                   32GB
+
+DISK:                     31GB
+    File-System:          overlayfs        
+
+OPERATING SYSTEM:         Ubuntu 20.04.6 LTS
+    Kernel:               5.15.0-1033-aws (x86_64)                                                                     
+    Compiler:             GCC 9.4.0                                                                                    
+    System Layer:         Xen HVM domU 4.11.amazon                                                                     
+    Security:             itlb_multihit: KVM: Mitigation of VMX unsupported                                            
+                          + l1tf: Mitigation of PTE Inversion                                                          
+                          + mds: Vulnerable: Clear buffers attempted no microcode; SMT Host state unknown              
+                          + meltdown: Mitigation of PTI                                                                
+                          + mmio_stale_data: Vulnerable: Clear buffers attempted no microcode; SMT Host state unknown  
+                          + retbleed: Not affected                                                                     
+                          + spec_store_bypass: Vulnerable                                                              
+                          + spectre_v1: Mitigation of usercopy/swapgs barriers and __user pointer sanitization         
+                          + spectre_v2: Mitigation of Retpolines STIBP: disabled RSB filling PBRSB-eIBRS: Not affected 
+                          + srbds: Not affected                                                                        
+                          + tsx_async_abort: Not affected                                                              
+
+
+Blender:
+    system/blender-1.2.1 [Blend File: BMW27 - Compute: CPU-Only]
+    Test 1 of 1
+    Estimated Trial Run Count:    1                     
+    Estimated Time To Completion: 7 Minutes [05:14 UTC] 
+        Started Run 1 @ 05:07:45
+
+    Blend File: BMW27 - Compute: CPU-Only:
+        471.29
+
+    Average: 471.29 Seconds
+    Samples: 1
+

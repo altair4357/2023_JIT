@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: c-ray
+spec:
+  schedulerName: custom_scheduler
+  containers:
+  - name: c-ray
+    image: altair4357/2023paper:c-ray
+    imagePullPolicy: Always
+    command: [ "sleep" ]
+    args: [ "infinity" ]
