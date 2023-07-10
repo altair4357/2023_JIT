@@ -1,0 +1,13 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: blender
+spec:
+  containers:
+  - name: blender
+    image: altair4357/2023paper:blender
+    imagePullPolicy: Always
+    command: [ "sleep" ]
+    args: [ "infinity" ]
+  nodeSelector:
+    kubernetes.io/hostname: node01
